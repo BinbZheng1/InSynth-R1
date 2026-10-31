@@ -1,0 +1,103 @@
+# InSynth-R1 RCPO trainer config: verl's ppo_trainer + RCPO / rubric judge defaults.
+
+hydra:
+  searchpath:
+    - pkg://verl.trainer.config
+
+defaults:
+  - ppo_trainer
+  - _self_
+
+algorithm:
+
+  # Advantage-based dynamic curriculum (insynth_r1.algo.rcpo)
+  adv_estimator: rcpo
+
+  # KL is a loss term of Eq. 11
+  use_kl_in_reward: false
+
+  rcpo:
+
+    # Curriculum cache threshold delta in Eq. 8
+    cache_std_threshold: 0.001
+
+    # w0, rho0, k of the calibrated weight in Eq. 10
+    w0: 1.5
+    rho0: 0.25
+    k: 10.0
+
+    # Bounds of r_total = [-(w_step + w_length), 2 + w_step], used only for rows without R_accuracy
+    reward_min: -2.0
+    reward_max: 3.0
+
+    # eps_adv in Eq. 7
+    epsilon: 1.0e-6
+
+actor_rollout_ref:
+  actor:
+
+    # RCPO clipped surrogate, Eq. 11-13 (insynth_r1.register)
+    policy_loss:
+      loss_mode: rcpo
+
+    # Eq. 11: 1/G sum_i 1/|y_i| sum_t
+    loss_agg_mode: seq-mean-token-mean
+
+    # Asymmetric clipping, Eq. 13
+    clip_ratio_low: 0.2
+    clip_ratio_high: 0.28
+
+    # KL regularization with coefficient 0.001 (k3 estimator as in GRPO)
+    use_kl_loss: true
+    kl_loss_coef: 0.001
+    kl_loss_type: low_var_kl
+
+reward:
+
+  # Exposes |y| and the training step to the rubric judge (needed by R_length)
+  reward_manager:
+    source: importlib
+    name: InSynthRewardManager
+    module:
+      path: pkg://insynth_r1.reward.manager
+
+  # Synthesis-aware rubric judge, Eq. 4-6
+  custom_reward_function:
+    path: pkg://insynth_r1.reward.rubric
+    name: compute_score
+    reward_kwargs:
+
+      # Reward weights in Eq. 6
+      w_step: 1.0
+      w_length: 1.0
+
+      # Soft length budget L_soft and hard upper bound L_hard in Eq. 5 (tokens)
+      length_soft: 1024
+      length_hard: 2048
+
+      # R_length is activated only in the later steps of RL training (from this global step on)
+      length_start_step: 100
+
+      # Key-step judge for R_step: "llm" (QwQ-32B with the key-step evaluation template,
+      # insynth_r1.data.prompts.KEY_STEP_JUDGE, on an OpenAI-compatible endpoint) or "rule" (rule-based checks).
+      # Failed judge requests fall back to "rule".
+      step_judge: llm
+
+      # null: filled from env JUDGE_API_BASE / JUDGE_MODEL by insynth_r1.main_rcpo
+      judge_base_url: null
+      judge_model: null
+
+      # Comma-separated judges tried in order when judge_model fails; null: env JUDGE_FALLBACK_MODELS
+      judge_fallback_models: null
+
+      # Name of the env var holding the API key
+      judge_api_key_env: JUDGE_API_KEY
+
+      # Per-request timeout of the key-step judge in seconds (QwQ-32B reasons before answering)
+      judge_timeout: 300
+
+      # Accept responses whose <think> is part of the generation prompt
+      allow_missing_think_open: false
+
+      # Precursor inventory for the Validity metric (one formula per line)
+      inventory_path: null

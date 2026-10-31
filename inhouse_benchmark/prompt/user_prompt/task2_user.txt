@@ -1,0 +1,2 @@
+The only tool to be used for this task is tools.check_json_reactions — do not use any other tools!
+If processing fails, return the reason for the error.

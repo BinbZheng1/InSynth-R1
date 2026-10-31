@@ -1,0 +1,4 @@
+After every use of get_pdf_reaction, you must use create_json_file once.
+Remember to write the return value of get_pdf_reaction into a file using create_json_file! If it is NULL, skip it. Note that the output format is JSON.
+Do not use any tools other than those specified above.
+Finish extracting all PDFs in the specified folder before ending — do not exit midway.

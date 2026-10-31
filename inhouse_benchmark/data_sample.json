@@ -1,0 +1,5557 @@
+[
+  {
+    "reaction": "SnS2 <- Sn + S",
+    "heat_temperature": "150°C for 5 min then 200°C for 45 min, followed by 300°C for 2 h",
+    "operations": [
+      "mix",
+      "microwave_irradiate",
+      "disperse",
+      "stir",
+      "add_solvent",
+      "centrifuge",
+      "wash",
+      "dry",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122022"
+  },
+  {
+    "reaction": "CsCdGa3O6 <- Cs2CO3 + CdCO3 + Ga2O3",
+    "heat_temperature": "900°C for 2 days, then slow cool to room temperature over 1 week",
+    "operations": [
+      "mix",
+      "heat",
+      "cool",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122613"
+  },
+  {
+    "reaction": "Nd3Zr0.5Nb0.5O6.75 <- Nd2O3 + ZrO2 + Nb2O5",
+    "heat_temperature": "1573 K for 6 h, then 1673 K for 6 h, sintered at 1823 K for 18 h",
+    "operations": [
+      "preheat",
+      "weigh",
+      "mix",
+      "dry",
+      "calcine",
+      "grind",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121754"
+  },
+  {
+    "reaction": "Sm3Zr0.5Nb0.5O6.75 <- Sm2O3 + ZrO2 + Nb2O5",
+    "heat_temperature": "1573 K for 6 h, then 1673 K for 6 h, sintered at 1823 K for 18 h",
+    "operations": [
+      "preheat",
+      "weigh",
+      "mix",
+      "dry",
+      "calcine",
+      "grind",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121754"
+  },
+  {
+    "reaction": "Gd3Zr0.5Nb0.5O6.75 <- Gd2O3 + ZrO2 + Nb2O5",
+    "heat_temperature": "1573 K for 6 h, then 1673 K for 6 h, sintered at 1823 K for 18 h",
+    "operations": [
+      "preheat",
+      "weigh",
+      "mix",
+      "dry",
+      "calcine",
+      "grind",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121754"
+  },
+  {
+    "reaction": "Dy3Zr0.5Nb0.5O6.75 <- Dy2O3 + ZrO2 + Nb2O5",
+    "heat_temperature": "1573 K for 6 h, then 1673 K for 6 h, sintered at 1823 K for 18 h",
+    "operations": [
+      "preheat",
+      "weigh",
+      "mix",
+      "dry",
+      "calcine",
+      "grind",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121754"
+  },
+  {
+    "reaction": "Y3Zr0.5Nb0.5O6.75 <- Y2O3 + ZrO2 + Nb2O5",
+    "heat_temperature": "1573 K for 6 h, then 1673 K for 6 h, sintered at 1823 K for 18 h",
+    "operations": [
+      "preheat",
+      "weigh",
+      "mix",
+      "dry",
+      "calcine",
+      "grind",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121754"
+  },
+  {
+    "reaction": "PbBiVO5 <- PbO + Bi2O3 + V2O5",
+    "heat_temperature": "720°C for 24h",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "calcine",
+      "repeat_calcination"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121777"
+  },
+  {
+    "reaction": "AgSbI4 <- AgI + SbI3",
+    "heat_temperature": "125°C for 18h",
+    "operations": [
+      "grind",
+      "load_into_crucible",
+      "evacuate_and_seal_ampule",
+      "heat"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.121997"
+  },
+  {
+    "reaction": "AgSb0.75Bi0.25I4 <- AgI + SbI3 + BiI3",
+    "heat_temperature": "175°C for 18h",
+    "operations": [
+      "grind",
+      "load_into_crucible",
+      "evacuate_and_seal_ampule",
+      "heat"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.121997"
+  },
+  {
+    "reaction": "BaTa2O6 <- BaCO3 + Ta2O5",
+    "heat_temperature": "800°C for 20h, then slow cool at 20°C/h to 400°C",
+    "operations": [
+      "mix",
+      "load_into_silver_tube",
+      "heat",
+      "slow_cool",
+      "dissolve_flux",
+      "sonicate",
+      "isolate_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121833"
+  },
+  {
+    "reaction": "NaCeF4 <- NaF + CeF3",
+    "heat_temperature": "800°C in steps of 200°C",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "characterize"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122573"
+  },
+  {
+    "reaction": "ZnMoO4 <- ZnO + MoO3",
+    "heat_temperature": "800°C for 4h",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "cool",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122578"
+  },
+  {
+    "reaction": "K2BiCl5 <- KCl + BiCl3",
+    "heat_temperature": "500°C for 96h, then cooled to room temperature over 48h",
+    "operations": [
+      "mix",
+      "grind",
+      "seal_in_tube",
+      "heat",
+      "cool",
+      "collect_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122621"
+  },
+  {
+    "reaction": "K3Bi2Br9 <- KBr + BiBr3",
+    "heat_temperature": "450°C for 96h, then cooled to room temperature over 48h",
+    "operations": [
+      "mix",
+      "grind",
+      "seal_in_tube",
+      "heat",
+      "cool",
+      "collect_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122621"
+  },
+  {
+    "reaction": "Li3VO4 <- Li2CO3 + V2O3",
+    "heat_temperature": "750°C for 12h",
+    "operations": [
+      "mix",
+      "press",
+      "preheat",
+      "reground",
+      "press",
+      "sinter",
+      "slow_cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121928"
+  },
+  {
+    "reaction": "Sr3Al2O6 <- SrCO3 + Al2O3",
+    "heat_temperature": "1150°C for 4h",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121861"
+  },
+  {
+    "reaction": "CaAl2O4 <- CaCO3 + Al2O3",
+    "heat_temperature": "400°C for 3h, then 1300°C for 3h",
+    "operations": [
+      "mix",
+      "dry",
+      "sinter",
+      "cool",
+      "grind",
+      "calcine",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121774"
+  },
+  {
+    "reaction": "CsSnBr3 <- CsBr + SnBr2",
+    "heat_temperature": "230°C for 60 min",
+    "operations": [
+      "deposit",
+      "transfer",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121902"
+  },
+  {
+    "reaction": "La3InSe6 <- La + In + Se",
+    "heat_temperature": "850°C for 96h",
+    "operations": [
+      "mix",
+      "press",
+      "seal_in_tube",
+      "heat_slowly",
+      "cool_slowly",
+      "collect_powder"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122096"
+  },
+  {
+    "reaction": "Ce3InSe6 <- Ce + In + Se",
+    "heat_temperature": "850°C for 96h",
+    "operations": [
+      "mix",
+      "press",
+      "seal_in_tube",
+      "heat_slowly",
+      "cool_slowly",
+      "collect_powder"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122096"
+  },
+  {
+    "reaction": "Pr3InSe6 <- Pr + In + Se",
+    "heat_temperature": "850°C for 96h",
+    "operations": [
+      "mix",
+      "press",
+      "seal_in_tube",
+      "heat_slowly",
+      "cool_slowly",
+      "collect_powder"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122096"
+  },
+  {
+    "reaction": "Nd3InSe6 <- Nd + In + Se",
+    "heat_temperature": "850°C for 96h",
+    "operations": [
+      "mix",
+      "press",
+      "seal_in_tube",
+      "heat_slowly",
+      "cool_slowly",
+      "collect_powder"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122096"
+  },
+  {
+    "reaction": "Sm3InSe6 <- Sm + In + Se",
+    "heat_temperature": "850°C for 96h",
+    "operations": [
+      "mix",
+      "press",
+      "seal_in_tube",
+      "heat_slowly",
+      "cool_slowly",
+      "collect_powder"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122096"
+  },
+  {
+    "reaction": "Gd3InSe6 <- Gd + In + Se",
+    "heat_temperature": "850°C for 96h",
+    "operations": [
+      "mix",
+      "press",
+      "seal_in_tube",
+      "heat_slowly",
+      "cool_slowly",
+      "collect_powder"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122096"
+  },
+  {
+    "reaction": "Tb3InSe6 <- Tb + In + Se",
+    "heat_temperature": "850°C for 96h",
+    "operations": [
+      "mix",
+      "press",
+      "seal_in_tube",
+      "heat_slowly",
+      "cool_slowly",
+      "collect_powder"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122096"
+  },
+  {
+    "reaction": "SrZnSnSe4 <- SrSe + Zn + SnSe + Se",
+    "heat_temperature": "650°C for 1.5 days",
+    "operations": [
+      "mix",
+      "load_into_silica_tube",
+      "evacuate",
+      "flame_seal",
+      "heat",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122092"
+  },
+  {
+    "reaction": "LaTi0.4Mg0.4Fe0.2O3 <- La2O3 + TiO2 + MgO + Fe2O3",
+    "heat_temperature": "600°C for 2h, 800°C for 2h",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122085"
+  },
+  {
+    "reaction": "Ca2LaFe2SbO9 <- CaCO3 + La2O3 + Fe2O3 + Sb2O5",
+    "heat_temperature": "800°C for 24h, then 1150°C for 48h, annealed at 1150°C for another 48h",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "fire",
+      "quench",
+      "reground",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121914"
+  },
+  {
+    "reaction": "Sr2LaFe2SbO9 <- SrCO3 + La2O3 + Fe2O3 + Sb2O5",
+    "heat_temperature": "800°C for 24h, then 1150°C for 48h, annealed at 1150°C for another 48h",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "fire",
+      "quench",
+      "reground",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121914"
+  },
+  {
+    "reaction": "Ba2LaFe2SbO9 <- BaCO3 + La2O3 + Fe2O3 + Sb2O5",
+    "heat_temperature": "800°C for 24h, then 1150°C for 48h, annealed at 1150°C for another 48h",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "fire",
+      "quench",
+      "reground",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121914"
+  },
+  {
+    "reaction": "RbLaNb2O7 <- RbNO3 + La2O3 + Nb2O5",
+    "heat_temperature": "1373 K for 2 days",
+    "operations": [
+      "preheat_reactants",
+      "mix",
+      "press_into_pellets",
+      "anneal",
+      "grind_intermediately",
+      "re_press",
+      "wash_with_water"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121832"
+  },
+  {
+    "reaction": "BaLaCuOsO6 <- BaO2 + La2O3 + CuO + OsO2",
+    "heat_temperature": "1073–1173 K for 48 h",
+    "operations": [
+      "decompose_nitrates",
+      "reoxidize_OsO2_with_PbO2",
+      "weigh",
+      "mix",
+      "pelletize",
+      "seal_in_quartz_tube",
+      "heat",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121784"
+  },
+  {
+    "reaction": "SrLaCuOsO6 <- SrO2 + La2O3 + CuO + OsO2",
+    "heat_temperature": "1073–1173 K for 48 h",
+    "operations": [
+      "decompose_nitrates",
+      "reoxidize_OsO2_with_PbO2",
+      "weigh",
+      "mix",
+      "pelletize",
+      "seal_in_quartz_tube",
+      "heat",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121784"
+  },
+  {
+    "reaction": "BaCu5P3 <- Ba + Cu + P",
+    "heat_temperature": "1073 K for 144 h, then 1073 K for 144 h",
+    "operations": [
+      "mix",
+      "seal_in_ampoule",
+      "anneal",
+      "grind",
+      "reseal",
+      "anneal_again"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122017"
+  },
+  {
+    "reaction": "InGaSe2 <- In + Ga + Se",
+    "heat_temperature": "350°C for 2h, then 1000°C, followed by cooling to 400°C and annealing for a fortnight",
+    "operations": [
+      "mix",
+      "seal_in_ampedoule",
+      "heat",
+      "stir",
+      "cool",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122569"
+  },
+  {
+    "reaction": "LiLaSiO4 <- Li2CO3 + La2O3 + SiO2",
+    "heat_temperature": "850°C for 8h, then 1175°C for 8h",
+    "operations": [
+      "weigh",
+      "grind",
+      "transfer_to_crucible",
+      "heat",
+      "cool",
+      "grind_to_powder"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121798"
+  },
+  {
+    "reaction": "Na2BaGe8O18 <- Na2CO3 + BaCO3 + GeO2",
+    "heat_temperature": "1150°C for 2h, then cooled to 950°C at 6°C/h",
+    "operations": [
+      "mix",
+      "press",
+      "heat",
+      "cool",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122607"
+  },
+  {
+    "reaction": "Rb2BaGe8O18 <- Rb2CO3 + BaCO3 + GeO2",
+    "heat_temperature": "1150°C for 1h, then cooled to 1050°C at 10°C/h, then to 700°C at 200°C/h",
+    "operations": [
+      "mix",
+      "press",
+      "heat",
+      "cool",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122607"
+  },
+  {
+    "reaction": "CrC <- Cr + C",
+    "heat_temperature": "1500 K at ~5 GPa",
+    "operations": [
+      "mix",
+      "grind",
+      "pelletize",
+      "load",
+      "laser_heat",
+      "retrieve",
+      "characterize"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121899"
+  },
+  {
+    "reaction": "Cu6WSnSe8 <- Cu + W + Sn + Se",
+    "heat_temperature": "773 K for 3 days, then 773 K for one week",
+    "operations": [
+      "mix",
+      "press",
+      "seal_in_quartz_tube",
+      "heat",
+      "grind",
+      "press_again",
+      "anneal",
+      "hot_press_sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122626"
+  },
+  {
+    "reaction": "LiSc2SbO6 <- Li2CO3 + Sc2O3 + Sb2O3",
+    "heat_temperature": "1173 K for 8 h, then 1473 K for 20 h",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "cool",
+      "re-homogenize",
+      "press",
+      "react"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.122615"
+  },
+  {
+    "reaction": "SrCeO3 <- SrCO3 + CeO2",
+    "heat_temperature": "1250°C for 5h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.121975"
+  },
+  {
+    "reaction": "SrCe0.9Dy0.1O3 <- SrCO3 + CeO2 + Dy2O3",
+    "heat_temperature": "1250°C for 5h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.121975"
+  },
+  {
+    "reaction": "SrCe0.99Dy0.01O3 <- SrCO3 + CeO2 + Dy2O3",
+    "heat_temperature": "1250°C for 5h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.121975"
+  },
+  {
+    "reaction": "SrCe0.999Dy0.001O3 <- SrCO3 + CeO2 + Dy2O3",
+    "heat_temperature": "1250°C for 5h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.121975"
+  },
+  {
+    "reaction": "SrCe0.9Sm0.1O3 <- SrCO3 + CeO2 + Sm2O3",
+    "heat_temperature": "1250°C for 5h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.121975"
+  },
+  {
+    "reaction": "SrCe0.99Sm0.01O3 <- SrCO3 + CeO2 + Sm2O3",
+    "heat_temperature": "1250°C for 5h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.121975"
+  },
+  {
+    "reaction": "SrCe0.999Sm0.001O3 <- SrCO3 + CeO2 + Sm2O3",
+    "heat_temperature": "1250°C for 5h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2021.121975"
+  },
+  {
+    "reaction": "Mg3GeO4F2 <- Mg2GeO4 + MgF2",
+    "heat_temperature": "1100°C for 25h",
+    "operations": [
+      "mix",
+      "press",
+      "seal_in_stainless_steel_tube",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121741"
+  },
+  {
+    "reaction": "Mg3GeO4F2 <- MgO + MgF2 + GeO2",
+    "heat_temperature": "1200°C for 16h, then 1100°C for 4h with slow cooling to 800°C at 4°C/h",
+    "operations": [
+      "mix",
+      "anneal",
+      "add_flux",
+      "heat",
+      "slow_cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121741"
+  },
+  {
+    "reaction": "ZrSiO4 <- ZrO2 + SiO2",
+    "heat_temperature": "1550°C for 20h",
+    "operations": [
+      "dissolve",
+      "mix",
+      "precipitate",
+      "dry",
+      "grind",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121783"
+  },
+  {
+    "reaction": "Bi1.5Sb1.5ZnO7 <- Bi2O3 + Sb2O3 + ZnO",
+    "heat_temperature": "700°C for 24h, then 800°C for 24h, then 900°C for 24h, finally 1000°C for 24h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123917"
+  },
+  {
+    "reaction": "Bi1.5Sb1.5CuO7 <- Bi2O3 + Sb2O3 + CuO",
+    "heat_temperature": "700°C for 24h, then 800°C for 24h, then 900°C for 24h, finally 1000°C for 24h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123917"
+  },
+  {
+    "reaction": "SrFe12O19 <- SrCO3 + Fe2O3",
+    "heat_temperature": "975°C for 1h",
+    "operations": [
+      "mix",
+      "mechanochemical_synthesis",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124126"
+  },
+  {
+    "reaction": "SrFe11.9Al0.1O19 <- SrCO3 + Fe2O3 + Al2O3",
+    "heat_temperature": "975°C for 1h",
+    "operations": [
+      "mix",
+      "mechanochemical_synthesis",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124126"
+  },
+  {
+    "reaction": "SrFe11.7Al0.3O19 <- SrCO3 + Fe2O3 + Al2O3",
+    "heat_temperature": "975°C for 1h",
+    "operations": [
+      "mix",
+      "mechanochemical_synthesis",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124126"
+  },
+  {
+    "reaction": "SrFe11.5Al0.5O19 <- SrCO3 + Fe2O3 + Al2O3",
+    "heat_temperature": "975°C for 1h",
+    "operations": [
+      "mix",
+      "mechanochemical_synthesis",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124126"
+  },
+  {
+    "reaction": "SrFe11.9Cr0.1O19 <- SrCO3 + Fe2O3 + Cr2O3",
+    "heat_temperature": "975°C for 1h",
+    "operations": [
+      "mix",
+      "mechanochemical_synthesis",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124126"
+  },
+  {
+    "reaction": "SrFe11.7Cr0.3O19 <- SrCO3 + Fe2O3 + Cr2O3",
+    "heat_temperature": "975°C for 1h",
+    "operations": [
+      "mix",
+      "mechanochemical_synthesis",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124126"
+  },
+  {
+    "reaction": "SrFe11.5Cr0.5O19 <- SrCO3 + Fe2O3 + Cr2O3",
+    "heat_temperature": "975°C for 1h",
+    "operations": [
+      "mix",
+      "mechanochemical_synthesis",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124126"
+  },
+  {
+    "reaction": "SrFe11.9Mn0.1O19 <- SrCO3 + Fe2O3 + Mn2O3",
+    "heat_temperature": "975°C for 1h",
+    "operations": [
+      "mix",
+      "mechanochemical_synthesis",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124126"
+  },
+  {
+    "reaction": "SrFe11.7Mn0.3O19 <- SrCO3 + Fe2O3 + Mn2O3",
+    "heat_temperature": "975°C for 1h",
+    "operations": [
+      "mix",
+      "mechanochemical_synthesis",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124126"
+  },
+  {
+    "reaction": "SrFe11.5Mn0.5O19 <- SrCO3 + Fe2O3 + Mn2O3",
+    "heat_temperature": "975°C for 1h",
+    "operations": [
+      "mix",
+      "mechanochemical_synthesis",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124126"
+  },
+  {
+    "reaction": "LiBa2AlO3F2 <- Li2O + BaO + Al2O3 + BaF2",
+    "heat_temperature": "1013 K for 6h or 1023 K for 6h or 1173 K for 6h (twice)",
+    "operations": [
+      "weigh",
+      "mix",
+      "press",
+      "seal_in_container",
+      "heat",
+      "cool",
+      "grind",
+      "re_press",
+      "re_heat"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123986"
+  },
+  {
+    "reaction": "LaSr3Mn1.5Fe1.5O9.71 <- La2O3 + SrCO3 + Mn2O3 + Fe2O3",
+    "heat_temperature": "1200°C for 32h",
+    "operations": [
+      "weigh",
+      "mix",
+      "grind",
+      "press",
+      "heat",
+      "grind_again",
+      "pelletize",
+      "grind_to_powder"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123675"
+  },
+  {
+    "reaction": "SrLa0.7Eu0.3GaO4 <- SrCO3 + La2O3 + Ga2O3 + Eu2O3",
+    "heat_temperature": "1320°C for 4h",
+    "operations": [
+      "mix",
+      "grind",
+      "sinter",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124265"
+  },
+  {
+    "reaction": "BaLa0.7Eu0.3InO4 <- BaCO3 + La2O3 + In2O3 + Eu2O3",
+    "heat_temperature": "1300°C for 5h",
+    "operations": [
+      "grind",
+      "sinter",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124282"
+  },
+  {
+    "reaction": "Nd3S3BO3 <- Nd2O3 + B + S",
+    "heat_temperature": "573 K for 5 h, then 873 K for 5 h, then 1173 K for 3 days, followed by cooling to 573 K at 5 K/h over 5 days",
+    "operations": [
+      "mix",
+      "press",
+      "load_into_quartz_tube",
+      "evacuate_and_seal",
+      "heat",
+      "cool",
+      "pick_crystals",
+      "clean"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124277"
+  },
+  {
+    "reaction": "Tb3S3BO3 <- Tb4O7 + B + S",
+    "heat_temperature": "573 K for 5 h, then 873 K for 5 h, then 1173 K for 3 days, followed by cooling to 573 K at 5 K/h over 5 days",
+    "operations": [
+      "mix",
+      "press",
+      "load_into_quartz_tube",
+      "evacuate_and_seal",
+      "heat",
+      "cool",
+      "pick_crystals",
+      "clean"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124277"
+  },
+  {
+    "reaction": "Dy3S3BO3 <- Dy2O3 + B + S",
+    "heat_temperature": "573 K for 5 h, then 873 K for 5 h, then 1173 K for 3 days, followed by cooling to 573 K at 5 K/h over 5 days",
+    "operations": [
+      "mix",
+      "press",
+      "load_into_quartz_tube",
+      "evacuate_and_seal",
+      "heat",
+      "cool",
+      "pick_crystals",
+      "clean"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124277"
+  },
+  {
+    "reaction": "Y3NbO7 <- Y2O3 + Nb2O5",
+    "heat_temperature": "1500°C for 36h",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "intermediate_grindings"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124147"
+  },
+  {
+    "reaction": "Ba2YSbO6 <- BaCO3 + Y2O3 + Sb2O3",
+    "heat_temperature": "600°C for 5h, then 1500°C for 8h",
+    "operations": [
+      "weigh",
+      "grind",
+      "pre-fire",
+      "calcine",
+      "cool",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123854"
+  },
+  {
+    "reaction": "Ba2In1.8Si0.2O5.1 <- BaCO3 + In2O3 + SiO2",
+    "heat_temperature": "1250°C for 12h, with intermediate grinding and reheating at 1000°C for 12h twice",
+    "operations": [
+      "weigh",
+      "mix",
+      "grind",
+      "heat",
+      "ball_mill",
+      "press",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123671"
+  },
+  {
+    "reaction": "Ba2In1.7B0.1Si0.2O5.1 <- BaCO3 + In2O3 + H3BO3 + SiO2",
+    "heat_temperature": "1250°C for 12h, with intermediate grinding and reheating at 1000°C for 12h twice",
+    "operations": [
+      "weigh",
+      "mix",
+      "grind",
+      "heat",
+      "ball_mill",
+      "press",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123671"
+  },
+  {
+    "reaction": "Ba2In1.6B0.2Si0.2O5.1 <- BaCO3 + In2O3 + H3BO3 + SiO2",
+    "heat_temperature": "1250°C for 12h, with intermediate grinding and reheating at 1000°C for 12h twice",
+    "operations": [
+      "weigh",
+      "mix",
+      "grind",
+      "heat",
+      "ball_mill",
+      "press",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123671"
+  },
+  {
+    "reaction": "BiFe0.5Sc0.5O3 <- Bi2O3 + Fe2O3 + Sc2O3",
+    "heat_temperature": "High pressure synthesis (pressure not specified in °C), followed by quenching; annealing up to 970 K for phase transformation studies",
+    "operations": [
+      "mix",
+      "ball_mill_or_sol_gel_combustion",
+      "high_pressure_synthesis",
+      "quench",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123937"
+  },
+  {
+    "reaction": "Bi0.95La0.05Fe0.5Sc0.5O3 <- Bi2O3 + La2O3 + Fe2O3 + Sc2O3",
+    "heat_temperature": "High pressure synthesis (pressure not specified in °C), followed by quenching; annealing up to 970 K",
+    "operations": [
+      "mix",
+      "ball_mill_or_sol_gel_combustion",
+      "high_pressure_synthesis",
+      "quench",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123937"
+  },
+  {
+    "reaction": "Bi0.90La0.10Fe0.5Sc0.5O3 <- Bi2O3 + La2O3 + Fe2O3 + Sc2O3",
+    "heat_temperature": "High pressure synthesis (pressure not specified in °C), followed by quenching; annealing up to ~700–870 K for phase transition studies",
+    "operations": [
+      "mix",
+      "ball_mill_or_sol_gel_combustion",
+      "high_pressure_synthesis",
+      "quench",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123937"
+  },
+  {
+    "reaction": "Bi0.80La0.20Fe0.5Sc0.5O3 <- Bi2O3 + La2O3 + Fe2O3 + Sc2O3",
+    "heat_temperature": "High pressure synthesis (pressure not specified in °C), followed by quenching; in situ high-pressure XRD up to 20 GPa at room temperature",
+    "operations": [
+      "mix",
+      "ball_mill_or_sol_gel_combustion",
+      "high_pressure_synthesis",
+      "quench",
+      "compress_in_diamond_anvil_cell"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123937"
+  },
+  {
+    "reaction": "Bi0.68La0.32Fe0.5Sc0.5O3 <- Bi2O3 + La2O3 + Fe2O3 + Sc2O3",
+    "heat_temperature": "High pressure synthesis (pressure not specified in °C), followed by quenching; annealing up to ~600–750 K",
+    "operations": [
+      "mix",
+      "ball_mill_or_sol_gel_combustion",
+      "high_pressure_synthesis",
+      "quench",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123937"
+  },
+  {
+    "reaction": "CeNbO4 <- CeO2 + Nb2O5",
+    "heat_temperature": "1300°C in air, then quenched",
+    "operations": [
+      "mix",
+      "heat",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123783"
+  },
+  {
+    "reaction": "Zn2TiO4 <- ZnO + TiO2",
+    "heat_temperature": "1000°C for 12h",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123688"
+  },
+  {
+    "reaction": "Ca3Sc2Ge3O12 <- CaCO3 + Sc2O3 + GeO2",
+    "heat_temperature": "1250°C for 4h, then 1325–1400°C for 4h",
+    "operations": [
+      "weigh",
+      "mix",
+      "ball_mill",
+      "dry",
+      "pre_sinter",
+      "add_PVA",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123980"
+  },
+  {
+    "reaction": "Li2MgCl4 <- LiCl + MgCl2",
+    "heat_temperature": "700°C for 6h",
+    "operations": [
+      "mix",
+      "seal_in_vacuum_quartz_tube",
+      "heat",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124361"
+  },
+  {
+    "reaction": "BaTiO3 <- BaCO3 + TiO2",
+    "heat_temperature": "1100°C for 4h",
+    "operations": [
+      "mix",
+      "mill",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123674"
+  },
+  {
+    "reaction": "Ba0.97Eu0.03TiO3 <- BaCO3 + TiO2 + Eu2O3",
+    "heat_temperature": "1100°C for 4h",
+    "operations": [
+      "mix",
+      "mill",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123674"
+  },
+  {
+    "reaction": "Y2Ti2O7 <- Y2O3 + TiO2",
+    "heat_temperature": "1400°C for 1h, then annealing at 700–1000°C for 4–10 h",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "dry",
+      "crush",
+      "sieve",
+      "press",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124136"
+  },
+  {
+    "reaction": "PbBiFeO4 <- PbO + Bi2O3 + Fe2O3",
+    "heat_temperature": "873 K for 24h",
+    "operations": [
+      "mix",
+      "decompose_carbonate",
+      "regrind",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123770"
+  },
+  {
+    "reaction": "PbBiFe0.85Mn0.15O4 <- PbO + Bi2O3 + Fe2O3 + MnCO3",
+    "heat_temperature": "873 K for 24h",
+    "operations": [
+      "mix",
+      "decompose_carbonate",
+      "regrind",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123770"
+  },
+  {
+    "reaction": "PbBiFe0.8Co0.2O4 <- PbO + Bi2O3 + Fe2O3 + Co2O3",
+    "heat_temperature": "923 K for 24h",
+    "operations": [
+      "mix",
+      "decompose_carbonate",
+      "regrind",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123770"
+  },
+  {
+    "reaction": "Y2CuTiO6 <- Y2O3 + CuO + TiO2",
+    "heat_temperature": "1250°C for 24h (ambient pressure synthesis); 1000°C for 15min at 4 GPa (high-pressure synthesis)",
+    "operations": [
+      "dissolve",
+      "mix",
+      "add_citric_acid",
+      "stir",
+      "combine_solutions",
+      "add_TiO2",
+      "evaporate_water",
+      "add_ethylene_glycol",
+      "form_gel",
+      "dry",
+      "calcine",
+      "grind",
+      "press_pellets",
+      "high_pressure_treatment"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123646"
+  },
+  {
+    "reaction": "MgCu2O3 <- CuO + MgO",
+    "heat_temperature": "950°C for 15h per cycle, total 90h over 6 cycles",
+    "operations": [
+      "mix",
+      "pelletize",
+      "anneal",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124249"
+  },
+  {
+    "reaction": "Ca0.95Y0.025Bi0.025MnO3 <- CaCO3 + Bi2O3 + Y2O3 + Mn2O3",
+    "heat_temperature": "1173 K for 10 h, then 1573 K for 10 h",
+    "operations": [
+      "weigh",
+      "dissolve_in_nitric_acid",
+      "add_glycine",
+      "evaporate_and_ignite",
+      "grind",
+      "calcine",
+      "mill",
+      "pelletize",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124231"
+  },
+  {
+    "reaction": "La0.7Pb0.3MnO3 <- La2O3 + Pb3O4 + MnO2",
+    "heat_temperature": "900°C for 24h, then 1000°C for 72h, then 1200°C for 24h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124355"
+  },
+  {
+    "reaction": "La0.7Pb0.28Bi0.02MnO3 <- La2O3 + Pb3O4 + Bi2O3 + MnO2",
+    "heat_temperature": "900°C for 24h, then 1000°C for 72h, then 1200°C for 24h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124355"
+  },
+  {
+    "reaction": "La0.7Pb0.26Bi0.04MnO3 <- La2O3 + Pb3O4 + Bi2O3 + MnO2",
+    "heat_temperature": "900°C for 24h, then 1000°C for 72h, then 1200°C for 24h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124355"
+  },
+  {
+    "reaction": "Gd2Si2O7 <- Gd2O3 + SiO2",
+    "heat_temperature": "1600°C for 10h",
+    "operations": [
+      "weigh",
+      "mix",
+      "mill",
+      "dry",
+      "press",
+      "heat_treat"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124229"
+  },
+  {
+    "reaction": "Na3Co2SbO6 <- Na2CO3 + Co3O4 + Sb2O3",
+    "heat_temperature": "600°C for 12h, then 900°C for 12h",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "regrind",
+      "heat"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124349"
+  },
+  {
+    "reaction": "Na3Ni2SbO6 <- Na2CO3 + NiO + Sb2O3",
+    "heat_temperature": "600°C for 12h, then 900°C for 12h",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "regrind",
+      "heat"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124349"
+  },
+  {
+    "reaction": "Na3Cu2SbO6 <- Na2CO3 + CuO + Sb2O3",
+    "heat_temperature": "600°C for 12h, then 900°C for 12h",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "regrind",
+      "heat"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124349"
+  },
+  {
+    "reaction": "Na3Zn2SbO6 <- Na2CO3 + ZnO + Sb2O3",
+    "heat_temperature": "600°C for 12h, then 900°C for 12h",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "regrind",
+      "heat"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124349"
+  },
+  {
+    "reaction": "Na0.44Mn0.99Ni0.01O2 <- Na2CO3 + MnCO3 + NiO",
+    "heat_temperature": "300°C for 1h, then 800°C for 9h",
+    "operations": [
+      "weigh",
+      "mix",
+      "ball_mill",
+      "calcinate",
+      "mix_again",
+      "heat_treatment",
+      "transfer_to_glovebox"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123741"
+  },
+  {
+    "reaction": "Na0.44Mn0.95Ni0.05O2 <- Na2CO3 + MnCO3 + NiO",
+    "heat_temperature": "300°C for 1h, then 800°C for 9h",
+    "operations": [
+      "weigh",
+      "mix",
+      "ball_mill",
+      "calcinate",
+      "mix_again",
+      "heat_treatment",
+      "transfer_to_glovebox"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123741"
+  },
+  {
+    "reaction": "LiMgPO4 <- Li2CO3 + MgCO3 + NH4H2PO4",
+    "heat_temperature": "573 K to expel gases, then 973 K for 10 h",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "press",
+      "sinter",
+      "crush",
+      "reheat"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124068"
+  },
+  {
+    "reaction": "LaBa2Fe3O8 <- La2O3 + BaCO3 + Fe2O3",
+    "heat_temperature": "1000°C for 16h, then 1000°C for 200h twice, finally 1040°C for 160h",
+    "operations": [
+      "mix",
+      "calcine",
+      "press",
+      "mill",
+      "sinter",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124137"
+  },
+  {
+    "reaction": "LiHSrTa2O7 <- H2SrTa2O7 + LiOH",
+    "heat_temperature": "room temperature",
+    "operations": [
+      "grind",
+      "stand_in_ambient_atmosphere"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124120"
+  },
+  {
+    "reaction": "Li2SrTa2O7 <- LiHSrTa2O7 + LiOH",
+    "heat_temperature": "120°C for 8 days",
+    "operations": [
+      "grind",
+      "heat"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124120"
+  },
+  {
+    "reaction": "LiBa2AlO4 <- Li2O + BaO + Al2O3",
+    "heat_temperature": "1173 K for 6 h",
+    "operations": [
+      "mix",
+      "press",
+      "heat",
+      "crush",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123654"
+  },
+  {
+    "reaction": "Ba3Yb2O5H2 <- Yb2O3 + BaO + BaH2 + Ba",
+    "heat_temperature": "1000°C for 20h, then cooled to 820°C over 200h",
+    "operations": [
+      "mix",
+      "seal_in_crucible",
+      "heat",
+      "cool",
+      "centrifuge",
+      "harvest_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123932"
+  },
+  {
+    "reaction": "Ba3Lu2O5H2 <- Lu2O3 + BaO + BaH2 + Ba",
+    "heat_temperature": "1000°C for 20h, then cooled to 820°C over 200h",
+    "operations": [
+      "mix",
+      "seal_in_crucible",
+      "heat",
+      "cool",
+      "centrifuge",
+      "harvest_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123932"
+  },
+  {
+    "reaction": "Y3GaO6 <- Y2O3 + Ga2O3",
+    "heat_temperature": "1450°C for 5h",
+    "operations": [
+      "mix",
+      "grind",
+      "sinter",
+      "cool",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124169"
+  },
+  {
+    "reaction": "Bi0.2Sb1.8Te3 <- Bi + Sb + Te",
+    "heat_temperature": "420°C for 1h",
+    "operations": [
+      "weigh",
+      "mix",
+      "mechanical_alloying",
+      "hot_press_sintering"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123823"
+  },
+  {
+    "reaction": "Bi0.3Sb1.7Te3 <- Bi + Sb + Te",
+    "heat_temperature": "420°C for 1h",
+    "operations": [
+      "weigh",
+      "mix",
+      "mechanical_alloying",
+      "hot_press_sintering"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123823"
+  },
+  {
+    "reaction": "Mg4Ta2O9 <- MgO + Ta2O5",
+    "heat_temperature": "800°C for 3h, then 1300°C for 6h",
+    "operations": [
+      "mix",
+      "grind",
+      "preheat",
+      "heat",
+      "quench",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124094"
+  },
+  {
+    "reaction": "La0.7Sr0.3MnO3 <- La2O3 + SrCO3 + Mn2O3",
+    "heat_temperature": "heated at 5 K/min to 1173 K, then 1 K/min to 1273 K, then 1 K/min to 1373 K, followed by slow cooling at 1 K/min to room temperature",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "slow_cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123821"
+  },
+  {
+    "reaction": "La0.4Eu0.3Sr0.3MnO3 <- La2O3 + Eu2O3 + SrCO3 + Mn2O3",
+    "heat_temperature": "heated at 5 K/min to 1173 K, then 1 K/min to 1273 K, then 1 K/min to 1373 K, followed by slow cooling at 1 K/min to room temperature",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "slow_cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123821"
+  },
+  {
+    "reaction": "DyAl2Ge2 <- Dy + Al + Ge",
+    "heat_temperature": "1323 K for 10 h, then slow cooling to 873 K",
+    "operations": [
+      "mix",
+      "load_into_crucible",
+      "seal_in_quartz_tube",
+      "heat",
+      "cool",
+      "centrifuge"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124347"
+  },
+  {
+    "reaction": "NaYbGeO4 <- Na2CO3 + Yb2O3 + GeO2",
+    "heat_temperature": "1073 K for 10 h, then microwave annealing at 1073 K and 1123 K for 2 h each",
+    "operations": [
+      "anneal_initial_reagents",
+      "dissolve_in_acid",
+      "mix_solutions",
+      "add_citric_acid",
+      "evaporate",
+      "anneal_precursor",
+      "grind",
+      "press",
+      "microwave_anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123946"
+  },
+  {
+    "reaction": "NaYGeO4 <- Na2CO3 + Y2O3 + GeO2",
+    "heat_temperature": "1073 K for 10 h, then microwave annealing at 1073 K and 1123 K for 2 h each",
+    "operations": [
+      "anneal_initial_reagents",
+      "dissolve_in_acid",
+      "mix_solutions",
+      "add_citric_acid",
+      "evaporate",
+      "anneal_precursor",
+      "grind",
+      "press",
+      "microwave_anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123946"
+  },
+  {
+    "reaction": "PbBi4Ti4O15 <- PbO + TiO2 + Bi2O3",
+    "heat_temperature": "850–1100°C for 5h",
+    "operations": [
+      "mix",
+      "stir",
+      "dry",
+      "calcine",
+      "wash"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124236"
+  },
+  {
+    "reaction": "U4OsGe8 <- U + Os + Ge",
+    "heat_temperature": "1073 K for two weeks",
+    "operations": [
+      "arc-melt",
+      "anneal",
+      "grind",
+      "characterize"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123795"
+  },
+  {
+    "reaction": "Na0.7Cu0.2Fe0.1Mn0.7O2 <- Na2CO3 + CuO + Fe2O3 + Mn2O3",
+    "heat_temperature": "850°C for 3h, then additional 7h at 850°C, followed by grinding, pressing and 10h at 850°C",
+    "operations": [
+      "dry",
+      "weigh",
+      "mix",
+      "press",
+      "dry",
+      "calcine",
+      "regrind",
+      "repress",
+      "recalcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124209"
+  },
+  {
+    "reaction": "Sr1.25Bi2.75Nb1.25Ti1.75O12 <- SrCO3 + Bi2O3 + Nb2O5 + TiO2",
+    "heat_temperature": "750°C for 5h, then 850°C for 5h, then 950°C for 5h; sintered at 950°C for 3h after calcining at 500°C for 2h",
+    "operations": [
+      "grind",
+      "mix_with_salt",
+      "heat",
+      "grind_intermittently",
+      "wash",
+      "dry",
+      "press",
+      "calcine",
+      "sinter",
+      "apply_electrodes"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124150"
+  },
+  {
+    "reaction": "NaLaTiO4 <- Na2CO3 + La2O3 + TiO2",
+    "heat_temperature": "800°C for 16h",
+    "operations": [
+      "dry",
+      "mix",
+      "press",
+      "heat",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124020"
+  },
+  {
+    "reaction": "Na2La2Ti3O10 <- Na2CO3 + La2O3 + TiO2",
+    "heat_temperature": "800–950°C for 16h",
+    "operations": [
+      "dry",
+      "mix",
+      "press",
+      "heat",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124020"
+  },
+  {
+    "reaction": "KLaTiO4 <- KNO3 + La2O3 + TiO2",
+    "heat_temperature": "800–900°C for 16h",
+    "operations": [
+      "dry",
+      "mix",
+      "press",
+      "heat",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124020"
+  },
+  {
+    "reaction": "K2La2Ti3O10 <- KNO3 + La2O3 + TiO2",
+    "heat_temperature": "850–950°C for 16h",
+    "operations": [
+      "dry",
+      "mix",
+      "press",
+      "heat",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124020"
+  },
+  {
+    "reaction": "La2SiMoO8 <- La2O3 + SiO2 + MoO3",
+    "heat_temperature": "1300°C for 12h, then 1320°C for 12h",
+    "operations": [
+      "mix",
+      "pre_anneal",
+      "anneal",
+      "cool_rapidly"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123812"
+  },
+  {
+    "reaction": "Ca3La2Mo2O12 <- La2O3 + MoO3 + CaCO3",
+    "heat_temperature": "500°C for 12h, then annealed at different temperatures with intermediate grindings until thermodynamic equilibrium",
+    "operations": [
+      "dry",
+      "mix",
+      "grind",
+      "heat",
+      "anneal",
+      "grind_intermediate"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124191"
+  },
+  {
+    "reaction": "CaLa4Mo3O16 <- La2O3 + MoO3 + CaCO3",
+    "heat_temperature": "1300°C for at least 300h",
+    "operations": [
+      "dry",
+      "mix",
+      "grind",
+      "heat",
+      "anneal_long"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124191"
+  },
+  {
+    "reaction": "La28CaW12O79 <- La2O3 + WO3 + CaCO3",
+    "heat_temperature": "1400°C for 60h",
+    "operations": [
+      "dry",
+      "mix",
+      "grind",
+      "heat",
+      "intermediate_grinding",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124230"
+  },
+  {
+    "reaction": "Ca3La6W4O24 <- La2O3 + WO3 + CaCO3",
+    "heat_temperature": "below 1250°C",
+    "operations": [
+      "dry",
+      "mix",
+      "grind",
+      "heat",
+      "intermediate_grinding",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124230"
+  },
+  {
+    "reaction": "Na2CaPO4F <- CaF2 + NaF + Na3PO4",
+    "heat_temperature": "800°C for 6h",
+    "operations": [
+      "mix",
+      "homogenize",
+      "heat",
+      "cool",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123779"
+  },
+  {
+    "reaction": "Ca2InTaO6 <- CaCO3 + In2O3 + Ta2O5",
+    "heat_temperature": "1673 K for 8 h",
+    "operations": [
+      "weigh",
+      "grind",
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124039"
+  },
+  {
+    "reaction": "Ga2O3 <- Ga + O2",
+    "heat_temperature": "900°C",
+    "operations": [
+      "load",
+      "pump_vacuum",
+      "introduce_gas",
+      "grow_film"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123662"
+  },
+  {
+    "reaction": "GdVO4 <- Gd2O3 + V2O5",
+    "heat_temperature": "900°C for 24h (twice), then 1100°C for 12h",
+    "operations": [
+      "mix",
+      "grind",
+      "pre_sinter",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124072"
+  },
+  {
+    "reaction": "Sr2FeNbO6 <- SrO + Fe2O3 + Nb2O5",
+    "heat_temperature": "1200°C for 12h, then 1200°C for 10h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124286"
+  },
+  {
+    "reaction": "PbBi2Te4 <- Pb + Bi + Te",
+    "heat_temperature": "850°C for 24h, then slow cooling at 3 K/h to 550°C",
+    "operations": [
+      "mix",
+      "seal",
+      "heat",
+      "cool",
+      "cleave"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124291"
+  },
+  {
+    "reaction": "CsPbBr3 <- CsBr + PbBr2",
+    "heat_temperature": "200°C for 2h",
+    "operations": [
+      "mix",
+      "grind",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123997"
+  },
+  {
+    "reaction": "MgWO4 <- MgO + WO3",
+    "heat_temperature": "1200°C for 72h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124269"
+  },
+  {
+    "reaction": "CoB <- Co + B",
+    "heat_temperature": "arc melting, no specific temperature mentioned",
+    "operations": [
+      "mix",
+      "arc_melt",
+      "characterize"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123702"
+  },
+  {
+    "reaction": "Ba2MgWO6 <- BaO + MgO + WO3",
+    "heat_temperature": "1400°C for 15h, then cooled to 950°C at 1.5°C/h, followed by furnace cooling",
+    "operations": [
+      "mix",
+      "grind",
+      "add_flux",
+      "seal_in_Pt_ampule",
+      "heat",
+      "slow_cool",
+      "furnace_cool",
+      "wash_with_water",
+      "ultrasonic_clean",
+      "vacuum_filter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124184"
+  },
+  {
+    "reaction": "YNi3Al9 <- Y + Ni + Al",
+    "heat_temperature": "1050°C for 24h, then slow cool to 750°C at 3°C/h",
+    "operations": [
+      "mix",
+      "seal_in_quartz_ampoule",
+      "heat",
+      "slow_cool",
+      "centrifuge",
+      "remove_flux"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123926"
+  },
+  {
+    "reaction": "Bi4Ti3O12 <- Bi2O3 + TiO2",
+    "heat_temperature": "850°C for 5h, then 870°C for 4h",
+    "operations": [
+      "weigh",
+      "mix",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124121"
+  },
+  {
+    "reaction": "Bi3.9Gd0.1Ti3O12 <- Bi2O3 + TiO2 + Gd2O3",
+    "heat_temperature": "850°C for 5h, then 870°C for 4h",
+    "operations": [
+      "weigh",
+      "mix",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124121"
+  },
+  {
+    "reaction": "TbMnO3 <- Tb2O3 + MnO2",
+    "heat_temperature": "1200°C for 40h, then 1450°C for 35h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123971"
+  },
+  {
+    "reaction": "Tb0.95In0.05MnO3 <- Tb2O3 + MnO2 + In2O3",
+    "heat_temperature": "1200°C for 40h, then 1450°C for 35h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123971"
+  },
+  {
+    "reaction": "Tb0.925In0.075MnO3 <- Tb2O3 + MnO2 + In2O3",
+    "heat_temperature": "1200°C for 40h, then 1450°C for 35h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123971"
+  },
+  {
+    "reaction": "Pr3Sb3Cu2O14 <- Pr2O3 + Sb2O3 + CuO",
+    "heat_temperature": "700°C for 1 day, then 800–1000°C for 2 days (repeated 3 times), finally 1100°C for 72h",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "regrind",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124205"
+  },
+  {
+    "reaction": "Nd3Sb3Cu2O14 <- Nd2O3 + Sb2O3 + CuO",
+    "heat_temperature": "700°C for 1 day, then 800–1000°C for 2 days (repeated 3 times), finally 1100°C for 72h",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "regrind",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124205"
+  },
+  {
+    "reaction": "Eu3Sb3Cu2O14 <- Eu2O3 + Sb2O3 + CuO",
+    "heat_temperature": "700°C for 1 day, then 800–1000°C for 2 days (repeated 3 times), finally 1100°C for 72h",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "regrind",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124205"
+  },
+  {
+    "reaction": "Tb3Sb3Cu2O14 <- Tb2O3 + Sb2O3 + CuO",
+    "heat_temperature": "700°C for 1 day, then 800–1000°C for 2 days (repeated 3 times), finally 1100°C for 72h",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "regrind",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124205"
+  },
+  {
+    "reaction": "Dy3Sb3Cu2O14 <- Dy2O3 + Sb2O3 + CuO",
+    "heat_temperature": "700°C for 1 day, then 800–1000°C for 2 days (repeated 3 times), finally 1100°C for 72h",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "regrind",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124205"
+  },
+  {
+    "reaction": "BaMnO3 <- BaCO3 + MnO2",
+    "heat_temperature": "1000°C for 4h",
+    "operations": [
+      "mix",
+      "heat",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124108"
+  },
+  {
+    "reaction": "KNbO3 <- K2CO3 + Nb2O5",
+    "heat_temperature": "Not explicitly stated (inferred from solid-state synthesis at 610°C for 72h)",
+    "operations": [
+      "mix",
+      "grind",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123712"
+  },
+  {
+    "reaction": "PbCr2S4 <- PbS + Cr + S",
+    "heat_temperature": "1200°C for 15 days",
+    "operations": [
+      "mix",
+      "seal_in_silica_tube",
+      "heat_gradually",
+      "cool_slowly"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123826"
+  },
+  {
+    "reaction": "Cs4Ca0.7Mn3.3Cl12 <- CsCl + CaCl2 + MnCl2",
+    "heat_temperature": "510°C overnight, then 515°C, then 550°C for three days",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "cool",
+      "regrind",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124095"
+  },
+  {
+    "reaction": "Sm5Mo3O16 <- Sm2O3 + MoO3",
+    "heat_temperature": "800°C for 24h in vacuum",
+    "operations": [
+      "anneal",
+      "mix",
+      "press",
+      "seal_in_quartz_ampoule",
+      "fire"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124078"
+  },
+  {
+    "reaction": "LiSm4Mo3O15F <- Sm2O3 + MoO3 + LiF",
+    "heat_temperature": "650°C for 24h in vacuum",
+    "operations": [
+      "anneal",
+      "mix",
+      "press",
+      "seal_in_quartz_ampoule",
+      "fire"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124078"
+  },
+  {
+    "reaction": "Cu2Se <- Cu + Se",
+    "heat_temperature": "523 K for 1h (pressing), then sintered at 573–973 K for 1h",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.123998"
+  },
+  {
+    "reaction": "LiNaCa2Al2F12 <- LiF + NaF + CaF2 + AlF3",
+    "heat_temperature": "850°C, quenched in air",
+    "operations": [
+      "mix",
+      "grind",
+      "melt",
+      "quench",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2022.123825"
+  },
+  {
+    "reaction": "Nb0.05Mo0.95O2 <- Nb2O5 + Mo + MoO3",
+    "heat_temperature": "1423 K for 48 h",
+    "operations": [
+      "mix",
+      "press",
+      "seal_in_quartz_tube",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124285"
+  },
+  {
+    "reaction": "Nb0.1Mo0.9O2 <- Nb2O5 + Mo + MoO3",
+    "heat_temperature": "1423 K for 48 h",
+    "operations": [
+      "mix",
+      "press",
+      "seal_in_quartz_tube",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124285"
+  },
+  {
+    "reaction": "ZnGa2O4 <- ZnO + Ga2O3",
+    "heat_temperature": "1473 K for 4 h",
+    "operations": [
+      "weigh",
+      "mix",
+      "calcine",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124159"
+  },
+  {
+    "reaction": "CoP <- Co + P",
+    "heat_temperature": "900°C for 3 h",
+    "operations": [
+      "mix",
+      "evaporate",
+      "anneal",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125416"
+  },
+  {
+    "reaction": "Cs4CuSb2Cl12 <- CsCl + CuCl2 + SbCl3",
+    "heat_temperature": "60°C for 12h",
+    "operations": [
+      "mix",
+      "precipitate",
+      "wash",
+      "centrifuge",
+      "filter",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125295"
+  },
+  {
+    "reaction": "Cs4CdSb2Cl12 <- CsCl + CdCl2 + SbCl3",
+    "heat_temperature": "60°C for 12h",
+    "operations": [
+      "mix",
+      "precipitate",
+      "wash",
+      "centrifuge",
+      "filter",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125295"
+  },
+  {
+    "reaction": "CeZrO4 <- CeO2 + ZrO2",
+    "heat_temperature": "520 K for unspecified duration under shock wave loading",
+    "operations": [
+      "mix",
+      "expose_to_shock_waves",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125145"
+  },
+  {
+    "reaction": "CsCdCl3 <- CsCl + CdCl2",
+    "heat_temperature": "room temperature",
+    "operations": [
+      "mix",
+      "ball_mill"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125341"
+  },
+  {
+    "reaction": "CsPbCl2Br <- CsCl + PbBr2",
+    "heat_temperature": "room temperature",
+    "operations": [
+      "mix",
+      "ball_mill"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125341"
+  },
+  {
+    "reaction": "CsPbBr2Cl <- CsBr + PbCl2",
+    "heat_temperature": "room temperature",
+    "operations": [
+      "mix",
+      "ball_mill"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125341"
+  },
+  {
+    "reaction": "BaPb2Ga6S12 <- BaS + PbS + Ga2S3",
+    "heat_temperature": "1223 K for 65 h, then cooled to 723 K at 3 K h−1",
+    "operations": [
+      "mix",
+      "grind",
+      "seal",
+      "anneal",
+      "cool",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125324"
+  },
+  {
+    "reaction": "BaPb2Ga6Se12 <- BaSe + PbSe + Ga2Se3",
+    "heat_temperature": "1173 K for 65 h, then cooled to 723 K at 3 K h−1",
+    "operations": [
+      "mix",
+      "grind",
+      "seal",
+      "anneal",
+      "cool",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125324"
+  },
+  {
+    "reaction": "K7HNb6O19 <- Nb2O5 + KOH + H2O",
+    "heat_temperature": "80°C for 3 days",
+    "operations": [
+      "mix",
+      "add_en",
+      "heat",
+      "cool",
+      "crystallize"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125304"
+  },
+  {
+    "reaction": "ZnFe2O4 <- Zn + Fe + O2",
+    "heat_temperature": "120°C for 6h",
+    "operations": [
+      "mix",
+      "hydrothermal",
+      "centrifuge",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125290"
+  },
+  {
+    "reaction": "CuIrB <- Cu + Ir + B",
+    "heat_temperature": "600°C for 240 h",
+    "operations": [
+      "mix",
+      "arc_melt",
+      "anneal",
+      "grind",
+      "XRD_analysis"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125176"
+  },
+  {
+    "reaction": "Rb2ZnCl4 <- RbCl + ZnCl2",
+    "heat_temperature": "313.15 K for slow evaporation",
+    "operations": [
+      "mix",
+      "evaporate",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125226"
+  },
+  {
+    "reaction": "Y2Mo3O12 <- Y2O3 + MoO3",
+    "heat_temperature": "800°C for 5h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125387"
+  },
+  {
+    "reaction": "Ca3Ga4O9 <- CaCO3 + Ga2O3",
+    "heat_temperature": "1200°C for 10h",
+    "operations": [
+      "mix",
+      "grind",
+      "anneal",
+      "cool",
+      "collect"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125453"
+  },
+  {
+    "reaction": "MnSe <- Mn + Se",
+    "heat_temperature": "Not specified in detail, solid-phase reaction method used",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125284"
+  },
+  {
+    "reaction": "YAlO3 <- Y2O3 + Al2O3",
+    "heat_temperature": "1550°C for 28h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125573"
+  },
+  {
+    "reaction": "La2Sn2O7 <- La2O3 + SnO2",
+    "heat_temperature": "1450°C for 3h, then 1600°C for 10h",
+    "operations": [
+      "mix",
+      "mill",
+      "dry",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125582"
+  },
+  {
+    "reaction": "Nd2Sn2O7 <- Nd2O3 + SnO2",
+    "heat_temperature": "1450°C for 3h, then 1600°C for 10h",
+    "operations": [
+      "mix",
+      "mill",
+      "dry",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125582"
+  },
+  {
+    "reaction": "Sm2Sn2O7 <- Sm2O3 + SnO2",
+    "heat_temperature": "1450°C for 3h, then 1600°C for 10h",
+    "operations": [
+      "mix",
+      "mill",
+      "dry",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125582"
+  },
+  {
+    "reaction": "Gd2Sn2O7 <- Gd2O3 + SnO2",
+    "heat_temperature": "1450°C for 3h, then 1600°C for 10h",
+    "operations": [
+      "mix",
+      "mill",
+      "dry",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125582"
+  },
+  {
+    "reaction": "Eu2Sn2O7 <- Eu2O3 + SnO2",
+    "heat_temperature": "1450°C for 3h, then 1600°C for 10h",
+    "operations": [
+      "mix",
+      "mill",
+      "dry",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125582"
+  },
+  {
+    "reaction": "Dy2Sn2O7 <- Dy2O3 + SnO2",
+    "heat_temperature": "1450°C for 3h, then 1600°C for 10h",
+    "operations": [
+      "mix",
+      "mill",
+      "dry",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125582"
+  },
+  {
+    "reaction": "Ho2Sn2O7 <- Ho2O3 + SnO2",
+    "heat_temperature": "1450°C for 3h, then 1600°C for 10h",
+    "operations": [
+      "mix",
+      "mill",
+      "dry",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125582"
+  },
+  {
+    "reaction": "Yb2Sn2O7 <- Yb2O3 + SnO2",
+    "heat_temperature": "1450°C for 3h, then 1600°C for 10h",
+    "operations": [
+      "mix",
+      "mill",
+      "dry",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125582"
+  },
+  {
+    "reaction": "Li0.6Al0.4Fe5O8 <- Li2O + Al2O3 + Fe2O3",
+    "heat_temperature": "1300 K for 24 h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125325"
+  },
+  {
+    "reaction": "Li0.5Al0.5Fe5O8 <- Li2O + Al2O3 + Fe2O3",
+    "heat_temperature": "1300 K for 24 h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125325"
+  },
+  {
+    "reaction": "Bi2Te3 <- Bi + Te",
+    "heat_temperature": "500–520 ◦C",
+    "operations": [
+      "mix",
+      "place",
+      "pump",
+      "flush",
+      "deposit",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125562"
+  },
+  {
+    "reaction": "CsCu2I3 <- CsI + CuI",
+    "heat_temperature": "400°C for 30h",
+    "operations": [
+      "mix",
+      "seal",
+      "anneal",
+      "cool",
+      "grind",
+      "seal_again",
+      "gradient_heat",
+      "descent_growth",
+      "remelt",
+      "slow_cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125288"
+  },
+  {
+    "reaction": "CaCd2Ga2Ge3O12 <- CaCO3 + CdO + Ga2O3 + GeO2",
+    "heat_temperature": "1150°C with heating rate of 5°C/min from 25°C to 1150°C, then cooling at 5°C/min to 500°C",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "anneal",
+      "cool",
+      "crush"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125564"
+  },
+  {
+    "reaction": "Na0.44Mn0.99Sn0.01O2 <- Na2CO3 + Mn2O3 + SnO2",
+    "heat_temperature": "300°C for 5h, then 800°C for 9h",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "dry",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125218"
+  },
+  {
+    "reaction": "CePtIn <- Ce + Pt + In",
+    "heat_temperature": "1144.6 K (871.6°C)",
+    "operations": [
+      "mix",
+      "arc_melt",
+      "zone_melt",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125203"
+  },
+  {
+    "reaction": "Sr0.4La1.5Ho0.1CuO3.8 <- SrCO3 + La2O3 + Ho2O3 + CuO",
+    "heat_temperature": "1050°C for 3–7 d",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "slow_cooling"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125245"
+  },
+  {
+    "reaction": "Gd1.7Ho0.2Bi0.1CuO4 <- Gd2O3 + Ho2O3 + Bi2O3 + CuO",
+    "heat_temperature": "1050°C for 3–7 d",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "slow_cooling"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125245"
+  },
+  {
+    "reaction": "La0.4Gd1.2Ho0.4CuO4 <- La2O3 + Gd2O3 + Ho2O3 + CuO",
+    "heat_temperature": "1050°C for 3–7 d",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "slow_cooling"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125245"
+  },
+  {
+    "reaction": "Cu3SbS4 <- Cu + Sb + S",
+    "heat_temperature": "350°C for 10 min",
+    "operations": [
+      "weigh",
+      "mix",
+      "grind",
+      "ball_mill",
+      "sinter",
+      "spark_plasma_sinter",
+      "hot_press"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125556"
+  },
+  {
+    "reaction": "CuBrI <- CuI + CuBr",
+    "heat_temperature": "170°C for 10 min",
+    "operations": [
+      "mix",
+      "spin_coat",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125148"
+  },
+  {
+    "reaction": "Bi2Te2.7Se0.3 <- Bi + Te + Se",
+    "heat_temperature": "Not explicitly stated for this reaction",
+    "operations": [
+      "mix",
+      "ball_mill"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125175"
+  },
+  {
+    "reaction": "Ag7PS6 <- Ag + P + S",
+    "heat_temperature": "850°C for 24h",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125611"
+  },
+  {
+    "reaction": "Ag8GeS6 <- Ag + Ge + S",
+    "heat_temperature": "1010°C for 48h",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125611"
+  },
+  {
+    "reaction": "MgIn2S4 <- Mg + In + S",
+    "heat_temperature": "Not explicitly mentioned in the article",
+    "operations": [
+      "in-situ growth",
+      "synthesis"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125579"
+  },
+  {
+    "reaction": "CaEuGa3O7 <- CaCO3 + Eu2O3 + Ga2O3",
+    "heat_temperature": "1400°C for 4h",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "anneal",
+      "cool",
+      "grind_again"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125485"
+  },
+  {
+    "reaction": "Li0.5La0.5TiO3 <- Li2CO3 + La2O3 + TiO2",
+    "heat_temperature": "1100°C for 3h",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125219"
+  },
+  {
+    "reaction": "Cs2CdSnS4 <- Cs2CO3 + Cd + Sn + S",
+    "heat_temperature": "433 K for 3 days",
+    "operations": [
+      "mix",
+      "heat",
+      "crystallize",
+      "wash",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125269"
+  },
+  {
+    "reaction": "Cs2AgBiI6 <- BiI3 + CsI + AgI",
+    "heat_temperature": "Room temperature, no heat treatment mentioned",
+    "operations": [
+      "mix",
+      "stir",
+      "precipitate",
+      "centrifuge",
+      "wash",
+      "dry",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125355"
+  },
+  {
+    "reaction": "WS2 <- WO3 + H2S",
+    "heat_temperature": "820–900°C",
+    "operations": [
+      "mix",
+      "anneal",
+      "sulfide_conversion"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125259"
+  },
+  {
+    "reaction": "ZnO <- Zn + O2",
+    "heat_temperature": "100°C for 5 min",
+    "operations": [
+      "mix",
+      "spin_coat",
+      "anneal",
+      "irradiate"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125302"
+  },
+  {
+    "reaction": "CdAl2Si2O8 <- CdO + Al2O3 + SiO2",
+    "heat_temperature": "500°C for 2h + 1000°C for 2h + 1200°C for 0.17h, then cooling to 1000°C for 10h",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125411"
+  },
+  {
+    "reaction": "Tb3Ni8Ga <- Tb + Ni + Ga",
+    "heat_temperature": "1070 K (±2 K) for 300 h",
+    "operations": [
+      "mix",
+      "arc_melting",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125613"
+  },
+  {
+    "reaction": "Tb3Ni6Ga2 <- Tb + Ni + Ga",
+    "heat_temperature": "870 K (±2 K) for 900 h then 970 K (±2 K) for 400 h",
+    "operations": [
+      "mix",
+      "arc_melting",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125613"
+  },
+  {
+    "reaction": "Tb2Fe17 <- Tb + Fe",
+    "heat_temperature": "1373 K for one week",
+    "operations": [
+      "weigh",
+      "arc_melt",
+      "anneal",
+      "wrap_in_ta",
+      "encapsulate"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125511"
+  },
+  {
+    "reaction": "LiMn2O4 <- Mn2O3 + Li2CO3",
+    "heat_temperature": "700°C for 10h",
+    "operations": [
+      "mix",
+      "grind",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125473"
+  },
+  {
+    "reaction": "LaNi5 <- La + Ni",
+    "heat_temperature": "1173 K for 4h",
+    "operations": [
+      "weigh",
+      "clean",
+      "arc_melting",
+      "pulverize",
+      "ball_mill",
+      "press",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125340"
+  },
+  {
+    "reaction": "Eu5In5S13 <- Eu + In2S3 + S",
+    "heat_temperature": "1000°C",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "cool",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125351"
+  },
+  {
+    "reaction": "Gd2ZnTiO6 <- Gd2O3 + ZnO + TiO2",
+    "heat_temperature": "1400°C for 6h",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "anneal",
+      "pulverize"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125178"
+  },
+  {
+    "reaction": "La3Co5Al2 <- La + Co + Al",
+    "heat_temperature": "600°C",
+    "operations": [
+      "arc_melting",
+      "annealing"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125177"
+  },
+  {
+    "reaction": "La6Co7Al7 <- La + Co + Al",
+    "heat_temperature": "600°C",
+    "operations": [
+      "arc_melting",
+      "annealing"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125177"
+  },
+  {
+    "reaction": "CoFe2O4 <- Co3O4 + Fe2O3",
+    "heat_temperature": "1300°C for 4h",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125590"
+  },
+  {
+    "reaction": "Cd2V2O7 <- CdO + V2O5",
+    "heat_temperature": "Ambient condition (β-phase), 0.3 GPa (γ-phase), 10.9 GPa (τ-phase)",
+    "operations": [
+      "apply_pressure",
+      "optimize_geometry",
+      "calculate_electronic_structure"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125162"
+  },
+  {
+    "reaction": "Nb0.25Bi2Se3 <- Nb + Bi + Se",
+    "heat_temperature": "800°C for 10h, then 1100°C for 10h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121023"
+  },
+  {
+    "reaction": "Sn3S7 <- Sn + S",
+    "heat_temperature": "190°C for 2 days",
+    "operations": [
+      "mix",
+      "seal",
+      "heat",
+      "cool",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125433"
+  },
+  {
+    "reaction": "LaRu2Ga3 <- La + Ru + Ga",
+    "heat_temperature": "600°C for 30 days",
+    "operations": [
+      "arc_melting",
+      "press",
+      "anneal",
+      "quench",
+      "flip",
+      "remelt"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125442"
+  },
+  {
+    "reaction": "Dy2Ru5Ga9 <- Dy + Ru + Ga",
+    "heat_temperature": "600°C for 30 days",
+    "operations": [
+      "arc_melting",
+      "press",
+      "anneal",
+      "quench",
+      "flip",
+      "remelt"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125442"
+  },
+  {
+    "reaction": "Ho5Ru8Ga12 <- Ho + Ru + Ga",
+    "heat_temperature": "600°C for 30 days",
+    "operations": [
+      "arc_melting",
+      "press",
+      "anneal",
+      "quench",
+      "flip",
+      "remelt"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125442"
+  },
+  {
+    "reaction": "Rb0.5Cs0.5PbCl1.5Br1.5 <- PbBr2 + PbCl2 + Cs2CO3 + Rb2CO3",
+    "heat_temperature": "180°C under nitrogen atmosphere",
+    "operations": [
+      "mix",
+      "heat",
+      "inject",
+      "cool",
+      "centrifuge",
+      "wash",
+      "redissolve"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125164"
+  },
+  {
+    "reaction": "Mo5O14 <- MoO3 + MoO2",
+    "heat_temperature": "525–783°C",
+    "operations": [
+      "expose",
+      "vapor_deposition",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125166"
+  },
+  {
+    "reaction": "Na2MgSnS4 <- Na + Mg + Sn + S",
+    "heat_temperature": "673 K for 48h, then 923 K for 100h",
+    "operations": [
+      "mix",
+      "seal",
+      "anneal",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125297"
+  },
+  {
+    "reaction": "Te4Sr3O11 <- SrO + As2O3 + TeO2",
+    "heat_temperature": "460°C for 8h",
+    "operations": [
+      "mix",
+      "quench",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125413"
+  },
+  {
+    "reaction": "Si0.8Ge0.2O2 <- SiO2 + GeO2",
+    "heat_temperature": "600/650 ◦C",
+    "operations": [
+      "mix",
+      "press",
+      "hydrothermal_growth"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125596"
+  },
+  {
+    "reaction": "BaSi1.98Al0.02O4.99 <- BaCO3 + SiO2 + Al2O3",
+    "heat_temperature": "1150°C for 4h",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "dry",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125384"
+  },
+  {
+    "reaction": "Gd3NbO7 <- Gd2O3 + Nb2O5",
+    "heat_temperature": "Approximately 2300°C, cooled rapidly to room temperature",
+    "operations": [
+      "mix",
+      "press",
+      "levitate",
+      "melt",
+      "quench",
+      "crush"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125508"
+  },
+  {
+    "reaction": "AlCl3 <- Al + Cl2",
+    "heat_temperature": "Not specified in the article",
+    "operations": [
+      "mix",
+      "modify",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125127"
+  },
+  {
+    "reaction": "Ba2Mo6O19F2 <- BaF2 + MoO3 + HF",
+    "heat_temperature": "200°C for 4 days, then cooled at 9°C/h to 23°C",
+    "operations": [
+      "mix",
+      "hydrothermal",
+      "cool",
+      "decant",
+      "wash"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125502"
+  },
+  {
+    "reaction": "BaMoO3F2 <- BaF2 + MoO3 + HF",
+    "heat_temperature": "200°C for 4 days, then cooled at 9°C/h to 23°C",
+    "operations": [
+      "mix",
+      "hydrothermal",
+      "cool",
+      "decant",
+      "wash"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125502"
+  },
+  {
+    "reaction": "Ba2Mo2O5F6 <- BaF2 + MoO3 + HF",
+    "heat_temperature": "200°C for 4 days, then cooled at 9°C/h to 23°C",
+    "operations": [
+      "mix",
+      "hydrothermal",
+      "cool",
+      "decant",
+      "wash"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125502"
+  },
+  {
+    "reaction": "InVTeO6 <- In2O3 + V2O5 + TeO2",
+    "heat_temperature": "230°C for 4 days",
+    "operations": [
+      "mix",
+      "autoclave",
+      "cool",
+      "decant",
+      "wash"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125143"
+  },
+  {
+    "reaction": "ThTi2O6 <- ThO2 + TiO2",
+    "heat_temperature": "1200°C for 48h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "grind",
+      "repress"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125476"
+  },
+  {
+    "reaction": "Cu9Al4 <- Cu + Al",
+    "heat_temperature": "680–710°C for 30–45 min",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "thermal_explosion"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125557"
+  },
+  {
+    "reaction": "TiC <- Ti + C",
+    "heat_temperature": "extreme thermal conditions generated by magnesium combustion (~2273 K or higher)",
+    "operations": [
+      "mix",
+      "press",
+      "ignite",
+      "collect",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125487"
+  },
+  {
+    "reaction": "CaTiO3 <- CaCO3 + TiO2",
+    "heat_temperature": "extreme thermal conditions generated by magnesium combustion (~2273 K or higher)",
+    "operations": [
+      "mix",
+      "press",
+      "ignite",
+      "collect",
+      "remove_carbon_layer",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125487"
+  },
+  {
+    "reaction": "Tb26Co5In12 <- Tb + Co + In",
+    "heat_temperature": "870 K for 800 h",
+    "operations": [
+      "arc_melting",
+      "annealing",
+      "quenching"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125343"
+  },
+  {
+    "reaction": "Cs2HfCl6 <- CsCl + HfCl4",
+    "heat_temperature": "Not specified in the article",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125353"
+  },
+  {
+    "reaction": "Cs2HfBr6 <- CsBr + HfBr4",
+    "heat_temperature": "Not specified in the article",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125353"
+  },
+  {
+    "reaction": "Cs2HfI6 <- CsI + HfI4",
+    "heat_temperature": "Not specified in the article",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125353"
+  },
+  {
+    "reaction": "Mg3Gd <- Mg + Gd",
+    "heat_temperature": "548°C (eutectic temperature)",
+    "operations": [
+      "alloying",
+      "aging_treatment"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125285"
+  },
+  {
+    "reaction": "Mg7Gd <- Mg + Gd",
+    "heat_temperature": "250°C and 200°C",
+    "operations": [
+      "cooling",
+      "precipitation"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125285"
+  },
+  {
+    "reaction": "Mg5Gd <- Mg + Gd",
+    "heat_temperature": "Peak aging condition",
+    "operations": [
+      "aging",
+      "phase_transformation"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125285"
+  },
+  {
+    "reaction": "Al4Fe1.7Si <- Al + Fe + Si",
+    "heat_temperature": "1270 K",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125257"
+  },
+  {
+    "reaction": "MoO3 <- Mo + H2O2",
+    "heat_temperature": "160°C for 48h under acidic conditions (pH 2)",
+    "operations": [
+      "mix",
+      "hydrothermal_reaction",
+      "centrifuge",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2025.125441"
+  },
+  {
+    "reaction": "Ba3Sc2S6 <- BaS + Sc + S",
+    "heat_temperature": "1050°C for 100h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "cool_ambient"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125105"
+  },
+  {
+    "reaction": "PuO2 <- Pu + O2",
+    "heat_temperature": "High pressure conditions (up to 588 GPa), not explicitly thermal synthesis",
+    "operations": [
+      "calculate",
+      "simulate",
+      "anneal",
+      "analyze_stability"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125080"
+  },
+  {
+    "reaction": "LuFeO3 <- Lu + Fe + O2",
+    "heat_temperature": "800°C during deposition",
+    "operations": [
+      "mix",
+      "deposit",
+      "anneal",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125048"
+  },
+  {
+    "reaction": "H6PW9V3O40 <- H3PO4 + WO3 + V2O5",
+    "heat_temperature": "90°C for 30 min, followed by 80°C grinding",
+    "operations": [
+      "mix",
+      "reflux",
+      "precipitate",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125046"
+  },
+  {
+    "reaction": "Cr3C2 <- Cr + C",
+    "heat_temperature": "750°C for melting and holding 30 min",
+    "operations": [
+      "mix",
+      "ultrasonic_stirring",
+      "casting",
+      "grinding",
+      "polishing",
+      "etching"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125092"
+  },
+  {
+    "reaction": "K0.3MoO3 <- MoO3 + KCl + H2O + C2H5OH",
+    "heat_temperature": "400°C for 1 h",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "filter",
+      "anneal",
+      "rinse"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125101"
+  },
+  {
+    "reaction": "Na0.9Mo6O17 <- MoO3 + Na2S2O4",
+    "heat_temperature": "500°C for 1 h",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "anneal",
+      "rinse"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125101"
+  },
+  {
+    "reaction": "BaVF5 <- V2O5 + BaCl2 + HF",
+    "heat_temperature": "220°C for 72h",
+    "operations": [
+      "mix",
+      "press",
+      "hydrothermal",
+      "cool_slowly",
+      "wash",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125095"
+  },
+  {
+    "reaction": "KNiB4O6F3 <- NiO + KBF4 + H3BO3",
+    "heat_temperature": "230°C for 2 days",
+    "operations": [
+      "mix",
+      "seal",
+      "heat",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125052"
+  },
+  {
+    "reaction": "Tb2CoIn8 <- Tb + Co + In",
+    "heat_temperature": "870 K for 860–900 h",
+    "operations": [
+      "arc_melting",
+      "anneal",
+      "quench",
+      "XRD_analysis",
+      "EDS_analysis"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125089"
+  },
+  {
+    "reaction": "Tb23Co7In20 <- Tb + Co + In",
+    "heat_temperature": "870 K for 860–900 h",
+    "operations": [
+      "arc_melting",
+      "anneal",
+      "quench",
+      "XRD_analysis",
+      "EDS_analysis"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125089"
+  },
+  {
+    "reaction": "Tb6Co2In <- Tb + Co + In",
+    "heat_temperature": "870 K for 860–900 h",
+    "operations": [
+      "arc_melting",
+      "anneal",
+      "quench",
+      "XRD_analysis",
+      "EDS_analysis"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125089"
+  },
+  {
+    "reaction": "TbCo2In <- Tb + Co + In",
+    "heat_temperature": "870 K for 860–900 h",
+    "operations": [
+      "arc_melting",
+      "anneal",
+      "quench",
+      "XRD_analysis",
+      "EDS_analysis"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125089"
+  },
+  {
+    "reaction": "Sr3V2O8 <- SrCO3 + V2O5",
+    "heat_temperature": "1200°C for 10h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "reground",
+      "reheat"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124512"
+  },
+  {
+    "reaction": "FeNb11O29 <- Fe2O3 + Nb2O5",
+    "heat_temperature": "800°C for 10h, then 1100°C for 10h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "microwave_heating",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124444"
+  },
+  {
+    "reaction": "Cu2SnSe3 <- Cu + Sn + Se",
+    "heat_temperature": "550°C for 72h, then 500°C for 48h",
+    "operations": [
+      "mix",
+      "press",
+      "sinter",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124446"
+  },
+  {
+    "reaction": "NiCo2S4 <- Ni + Co + S",
+    "heat_temperature": "160°C for 3h",
+    "operations": [
+      "mix",
+      "hydrothermal",
+      "rinse",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124578"
+  },
+  {
+    "reaction": "Co9S8 <- Co + S",
+    "heat_temperature": "160°C for 3h",
+    "operations": [
+      "mix",
+      "hydrothermal",
+      "rinse",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124578"
+  },
+  {
+    "reaction": "Fe0.6Co0.3Ni0.1S2 <- Fe + Co + Ni + S",
+    "heat_temperature": "400°C for 3h",
+    "operations": [
+      "mix",
+      "sulfidate",
+      "anneal",
+      "centrifuge",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124433"
+  },
+  {
+    "reaction": "PbNb2O6 <- PbO + Nb2O5",
+    "heat_temperature": "900°C for 2h (calcination), 1300°C for 8h (sintering)",
+    "operations": [
+      "dry",
+      "mix",
+      "mill",
+      "dry",
+      "sieve",
+      "press",
+      "calcine",
+      "crush",
+      "mill",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124493"
+  },
+  {
+    "reaction": "SnS2 <- SnCl4 + H2S",
+    "heat_temperature": "160°C for 10 min",
+    "operations": [
+      "mix",
+      "stir",
+      "filter",
+      "wash",
+      "re-disperse"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124456"
+  },
+  {
+    "reaction": "Sc2NiCu <- Sc + Ni + Cu",
+    "heat_temperature": "1073 K for 3 days",
+    "operations": [
+      "arc_melting",
+      "anneal",
+      "furnace_cooling"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124536"
+  },
+  {
+    "reaction": "Sc2NiCo <- Sc + Ni + Co",
+    "heat_temperature": "1073 K for 3 days",
+    "operations": [
+      "arc_melting",
+      "anneal",
+      "furnace_cooling"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124536"
+  },
+  {
+    "reaction": "Sc2CoCu <- Sc + Co + Cu",
+    "heat_temperature": "1073 K for 3 days",
+    "operations": [
+      "arc_melting",
+      "anneal",
+      "furnace_cooling"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124536"
+  },
+  {
+    "reaction": "Gd2CuZnMn4O12 <- GdMnO3 + CuO + ZnO + MnO2",
+    "heat_temperature": "1500 K for 2 h at 6 GPa",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "cool",
+      "release_pressure"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124543"
+  },
+  {
+    "reaction": "LiNbO3 <- Li2O + Nb2O5",
+    "heat_temperature": "1263°C for crystal growth, followed by annealing at 1200°C for 10 h and cooling at ~50 deg/h",
+    "operations": [
+      "mix",
+      "crucible_loading",
+      "melt_homogenization",
+      "crystal_growth",
+      "anneal",
+      "cooling",
+      "polish",
+      "characterize"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124558"
+  },
+  {
+    "reaction": "Sr6Co5O15 <- SrCO3 + Co3O4",
+    "heat_temperature": "1000°C for 4h",
+    "operations": [
+      "mix",
+      "heat_treatment",
+      "anneal",
+      "grind",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124538"
+  },
+  {
+    "reaction": "Gd2Rh3Al9 <- Gd + Rh + Al",
+    "heat_temperature": "1600°C for 1h, then cooled to 900°C over 2h",
+    "operations": [
+      "mix",
+      "encapsulate",
+      "press",
+      "anneal",
+      "cool_rapidly",
+      "release_pressure"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124487"
+  },
+  {
+    "reaction": "Bi3S4 <- Bi + S",
+    "heat_temperature": "1300 to 800°C at a rate of ~3°C/min, followed by quenching",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "cool_slowly",
+      "quench",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124402"
+  },
+  {
+    "reaction": "LaNi2Al <- La + Ni + Al",
+    "heat_temperature": "600°C for two months",
+    "operations": [
+      "mix",
+      "arc_melting",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124593"
+  },
+  {
+    "reaction": "La4Ni6Al3 <- La + Ni + Al",
+    "heat_temperature": "1000°C during DSC procedure",
+    "operations": [
+      "mix",
+      "arc_melting",
+      "anneal",
+      "crush"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124593"
+  },
+  {
+    "reaction": "La5Ni8Al4 <- La + Ni + Al",
+    "heat_temperature": "750°C for 10h",
+    "operations": [
+      "mix",
+      "arc_melting",
+      "anneal",
+      "natural_cooling"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124593"
+  },
+  {
+    "reaction": "Cu2ZnSnS4 <- Cu + Zn + Sn + S",
+    "heat_temperature": "500°C to 580°C for varying durations (30–60 min), with optimal conditions at 550°C for 50 min",
+    "operations": [
+      "mix",
+      "spin_coat",
+      "anneal",
+      "sulfurize"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124641"
+  },
+  {
+    "reaction": "NiO <- NiCl2 + H2O",
+    "heat_temperature": "450°C",
+    "operations": [
+      "mix",
+      "spray",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124637"
+  },
+  {
+    "reaction": "LiH <- Li + H2",
+    "heat_temperature": "200°C for desorption",
+    "operations": [
+      "ball_mill",
+      "hydrogen_adsorption",
+      "anneal",
+      "desorb"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124483"
+  },
+  {
+    "reaction": "NaH <- Na + H2",
+    "heat_temperature": "200°C for desorption",
+    "operations": [
+      "ball_mill",
+      "hydrogen_adsorption",
+      "anneal",
+      "desorb"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124483"
+  },
+  {
+    "reaction": "Mn55Bi45 <- Mn + Bi",
+    "heat_temperature": "573 K for 24h",
+    "operations": [
+      "weigh",
+      "arc_melting",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124403"
+  },
+  {
+    "reaction": "NiCo2O4 <- Ni + Co + O2",
+    "heat_temperature": "500°C for 5h",
+    "operations": [
+      "mix",
+      "impregnate",
+      "dry",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124560"
+  },
+  {
+    "reaction": "Sn3Bi2Te6 <- SnTe + Bi2Te3",
+    "heat_temperature": "650-900°C for 5h, then 550°C for 45 days",
+    "operations": [
+      "mix",
+      "anneal",
+      "quench",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124494"
+  },
+  {
+    "reaction": "Ag3PW12O40 <- H3PW12O40 + AgNO3",
+    "heat_temperature": "70°C overnight",
+    "operations": [
+      "mix",
+      "dry",
+      "crystallize",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124405"
+  },
+  {
+    "reaction": "LiNaSrP2O7 <- Na2CO3 + SrCO3 + Li2CO3 + NH4H2PO4",
+    "heat_temperature": "573 K for 14 h, then 823 K for 16 h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124480"
+  },
+  {
+    "reaction": "SrGa2Ge2O8 <- Ga2O3 + GeO2 + SrCO3",
+    "heat_temperature": "1200°C for 11h, then 1300°C for 10min, followed by cooling to 1000°C in 30min",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "anneal",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124429"
+  },
+  {
+    "reaction": "BaGa2Ge2O8 <- Ga2O3 + GeO2 + BaCO3",
+    "heat_temperature": "1400°C for 10min, followed by cooling to 1000°C in 30min and then furnace cooling for 8h",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "anneal",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124429"
+  },
+  {
+    "reaction": "CuAgSe <- Cu + Ag + Se",
+    "heat_temperature": "400°C for 1h",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124507"
+  },
+  {
+    "reaction": "Ag2Se <- Ag + Se",
+    "heat_temperature": "400°C for 1h",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124507"
+  },
+  {
+    "reaction": "Re6S4Br10 <- Re + S + Br2",
+    "heat_temperature": "780°C for 24h",
+    "operations": [
+      "mix",
+      "seal",
+      "anneal",
+      "cool_slow",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124478"
+  },
+  {
+    "reaction": "Re6S5Br8 <- Re + S + Br2",
+    "heat_temperature": "standard high temperature reaction",
+    "operations": [
+      "mix",
+      "seal",
+      "anneal",
+      "cool_slow",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124478"
+  },
+  {
+    "reaction": "Re6S7Br4 <- Re + S + Br2",
+    "heat_temperature": "850–900°C for 24h",
+    "operations": [
+      "mix",
+      "seal",
+      "anneal",
+      "cool_slow",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124478"
+  },
+  {
+    "reaction": "Re6S8Br2 <- Re + S + Br2",
+    "heat_temperature": "1120–1160°C for 2 weeks",
+    "operations": [
+      "mix",
+      "seal",
+      "anneal",
+      "quench",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124478"
+  },
+  {
+    "reaction": "PdCoO2 <- PdO + Co3O4",
+    "heat_temperature": "800°C for 24h",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "cool",
+      "wash"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124426"
+  },
+  {
+    "reaction": "Ag2SnAs6Se12 <- Ag2Se + SnSe2 + As2Se3",
+    "heat_temperature": "725 K for 100 h, then 675 K for 100 h",
+    "operations": [
+      "mix",
+      "anneal",
+      "crystallize",
+      "quench",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124581"
+  },
+  {
+    "reaction": "KAlCl4 <- KCl + AlCl3",
+    "heat_temperature": "190°C for 17h",
+    "operations": [
+      "mix",
+      "impregnate",
+      "dry",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124561"
+  },
+  {
+    "reaction": "Te2B2O7 <- TeO2 + B2O3",
+    "heat_temperature": "1073 K for 20 min, then cooled to 573 K in 20 min",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "heat",
+      "quench",
+      "release_pressure",
+      "recover_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124458"
+  },
+  {
+    "reaction": "TaON <- Ta2O5 + NH3",
+    "heat_temperature": "800°C for 5h",
+    "operations": [
+      "mix",
+      "press",
+      "calcine",
+      "nitridation"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124404"
+  },
+  {
+    "reaction": "Bi3GaSb2O11 <- Bi2O3 + Ga2O3 + Sb2O3",
+    "heat_temperature": "1050°C for 48h, then 1050°C for 12h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124380"
+  },
+  {
+    "reaction": "LiVOPO4 <- V2O5 + H3PO4 + LiNO3",
+    "heat_temperature": "400°C for 3h",
+    "operations": [
+      "dissolve",
+      "stir",
+      "evaporate",
+      "dry",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124511"
+  },
+  {
+    "reaction": "Tb5Sb2Bi <- Tb + Sb + Bi",
+    "heat_temperature": "870 K (±2 K) or 1070 K (±2 K) for 900-240 h",
+    "operations": [
+      "arc_melting",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124579"
+  },
+  {
+    "reaction": "Eu2Ti2O7 <- Eu2O3 + TiO2",
+    "heat_temperature": "1400°C for 48h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124632"
+  },
+  {
+    "reaction": "Ba2HgSe5 <- BaSe + HgSe + Se",
+    "heat_temperature": "573 K for 16 h, then 730 K for 90 h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124488"
+  },
+  {
+    "reaction": "Y2MgTiO6 <- Y2O3 + MgO + TiO2",
+    "heat_temperature": "1300°C to 1600°C for 12h",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "dry",
+      "calcine",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124451"
+  },
+  {
+    "reaction": "Cs8Na16Ga6Ge130 <- Cs + Na + Ga + Ge",
+    "heat_temperature": "650°C for one week",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124501"
+  },
+  {
+    "reaction": "BaMoO4 <- BaCO3 + MoO3",
+    "heat_temperature": "880°C for 5h, then 900°C for 4h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcine",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124531"
+  },
+  {
+    "reaction": "YBaFe4O7 <- Y2O3 + BaCO3 + Fe",
+    "heat_temperature": "860°C for 48h during calcination, then 860°C for 45h during sintering",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "quench",
+      "oxidize"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124555"
+  },
+  {
+    "reaction": "Ag8SnSe6 <- Ag + Sn + Se",
+    "heat_temperature": "800°C for 10h, then 1100°C for 10h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124541"
+  },
+  {
+    "reaction": "Na0.5Bi0.5TiO3 <- Na2CO3 + Bi2O3 + TiO2",
+    "heat_temperature": "high temperature sintering",
+    "operations": [
+      "mix",
+      "press",
+      "sinter",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2023.124362"
+  },
+  {
+    "reaction": "Fe30Cr45V25 <- Fe + Cr + V",
+    "heat_temperature": "Arc melted under argon atmosphere without annealing",
+    "operations": [
+      "mix",
+      "arc_melt",
+      "flip",
+      "remelt"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124602"
+  },
+  {
+    "reaction": "Cu3SbSe3 <- Cu + Sb + Se",
+    "heat_temperature": "1273 K for melting, then annealed at 623 K for 5 days",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124642"
+  },
+  {
+    "reaction": "Cu3Sb0.95Bi0.05Se3 <- Cu + Sb + Bi + Se",
+    "heat_temperature": "1273 K for melting, then annealed at 623 K for 5 days",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124642"
+  },
+  {
+    "reaction": "MnTiO3 <- MnO + TiO2",
+    "heat_temperature": "1370°C",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "pulling_down"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124839"
+  },
+  {
+    "reaction": "WO3 <- H2WO4 + O2",
+    "heat_temperature": "600°C for 40 min",
+    "operations": [
+      "mix",
+      "spin_coat",
+      "dry",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124901"
+  },
+  {
+    "reaction": "Fe2P <- Fe + P2",
+    "heat_temperature": "1142°C for reduction, 1280–1600°C for P2 formation",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "gas_diffusion",
+      "quench",
+      "interface_analysis"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124907"
+  },
+  {
+    "reaction": "Fe3P <- Fe + P2",
+    "heat_temperature": "1280–1600°C",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "gas_diffusion",
+      "quench",
+      "interface_analysis"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124907"
+  },
+  {
+    "reaction": "Sr17Zr9F70 <- SrF2 + ZrF4",
+    "heat_temperature": "850°C for 2 days, followed by slow cooling to equilibrium temperature and annealing between 600°C and 400°C",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "slow_cooling",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124870"
+  },
+  {
+    "reaction": "Sr23Zr12F94 <- SrF2 + ZrF4",
+    "heat_temperature": "550–450°C for 2 days to 1 month",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124870"
+  },
+  {
+    "reaction": "Pb29Hf15F118 <- PbF2 + HfF4",
+    "heat_temperature": "555–510°C for 2 days to 1 month",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124870"
+  },
+  {
+    "reaction": "Pb2HfF8 <- PbF2 + HfF4",
+    "heat_temperature": "630°C for crystal growth",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "quench",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124870"
+  },
+  {
+    "reaction": "InPd3H <- InPd3 + H2",
+    "heat_temperature": "Not explicitly mentioned",
+    "operations": [
+      "hydrogenation",
+      "annealing"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124893"
+  },
+  {
+    "reaction": "MgPd3H <- MgPd3 + H2",
+    "heat_temperature": "Not explicitly mentioned",
+    "operations": [
+      "hydrogenation",
+      "annealing"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124893"
+  },
+  {
+    "reaction": "TlPd3H <- TlPd3 + H2",
+    "heat_temperature": "Not explicitly mentioned",
+    "operations": [
+      "hydrogenation",
+      "annealing"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124893"
+  },
+  {
+    "reaction": "CsPbIBr2 <- CsI + PbBr2",
+    "heat_temperature": "110°C for 50 min in a vacuum oven",
+    "operations": [
+      "mix",
+      "spin_coat",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124827"
+  },
+  {
+    "reaction": "Y0.9Tb0.1Fe2D4.3 <- Y + Tb + Fe + D2",
+    "heat_temperature": "1100 K for 3 weeks",
+    "operations": [
+      "mix",
+      "anneal",
+      "gas_absorption",
+      "refine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124898"
+  },
+  {
+    "reaction": "Cs2AgBiBr6 <- CsBr + AgBr + BiBr3",
+    "heat_temperature": "205°C for 2h, then 250°C for 2h",
+    "operations": [
+      "grind",
+      "anneal",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124876"
+  },
+  {
+    "reaction": "Bi18O22Cl8Se <- Bi2O3 + Bi2O2Se + BiOCl",
+    "heat_temperature": "1123 K for 60 h",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124889"
+  },
+  {
+    "reaction": "CsZn4P3 <- Cs + Zn + P",
+    "heat_temperature": "Not explicitly mentioned, but likely high-temperature synthesis based on context",
+    "operations": [
+      "synthesis",
+      "calculation"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124976"
+  },
+  {
+    "reaction": "CsZn4As3 <- Cs + Zn + As",
+    "heat_temperature": "Not explicitly mentioned, but likely high-temperature synthesis based on context",
+    "operations": [
+      "synthesis",
+      "calculation"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124976"
+  },
+  {
+    "reaction": "KMgBi <- K + Mg + Bi",
+    "heat_temperature": "Not specified in the text",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125000"
+  },
+  {
+    "reaction": "RbMgBi <- Rb + Mg + Bi",
+    "heat_temperature": "Not specified in the text",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125000"
+  },
+  {
+    "reaction": "CsMgBi <- Cs + Mg + Bi",
+    "heat_temperature": "Not specified in the text",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125000"
+  },
+  {
+    "reaction": "TiU8S17 <- TiS + US2",
+    "heat_temperature": "1373 K with a heating rate of 46 Kh–1 for four days",
+    "operations": [
+      "mix",
+      "grind",
+      "anneal",
+      "seal_in_ampoule",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124998"
+  },
+  {
+    "reaction": "U3S5 <- U + S",
+    "heat_temperature": "1173 K with a heating rate of 35 Kh–1 to allow the starting materials to pre-react",
+    "operations": [
+      "mix",
+      "seal_in_ampoule",
+      "pre_react",
+      "gradient_anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124998"
+  },
+  {
+    "reaction": "Lu4U5S16 <- Lu2S3 + US2",
+    "heat_temperature": "1173 K with a heating rate of 75 Kh–1 and held there for 24 h before placing it in a temperature gradient of 1323 K (starting materials) to 1173 K for two weeks",
+    "operations": [
+      "mix",
+      "seal_in_ampoule",
+      "anneal",
+      "gradient_transport"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124998"
+  },
+  {
+    "reaction": "Ir8Al21.22 <- Ir + Al",
+    "heat_temperature": "Arc melting under Ar atmosphere",
+    "operations": [
+      "mix",
+      "arc_melting",
+      "anneal",
+      "grind",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124967"
+  },
+  {
+    "reaction": "CsPbBr3 <- Cs2CO3 + PbBr2",
+    "heat_temperature": "100°C for 30 min",
+    "operations": [
+      "mix",
+      "heat",
+      "centrifuge",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124962"
+  },
+  {
+    "reaction": "Cu2FeSnS4 <- Cu + Fe + Sn + S",
+    "heat_temperature": "600°C for 24h, then 1000°C for 48h, then cooled to 800°C at 20°C/h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "cool",
+      "crush"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124969"
+  },
+  {
+    "reaction": "Fe2Mo <- Fe + Mo",
+    "heat_temperature": "not specified",
+    "operations": [
+      "doping",
+      "first_principles_calculation"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124968"
+  },
+  {
+    "reaction": "NiMoP <- Ni + Mo + P",
+    "heat_temperature": "not mentioned",
+    "operations": [
+      "mix",
+      "electrodeposition",
+      "activate_surface",
+      "rinse",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124958"
+  },
+  {
+    "reaction": "KYF4 <- KF + YF3",
+    "heat_temperature": "Not explicitly mentioned, but synthesis involves hydrothermal method followed by annealing (inferred)",
+    "operations": [
+      "mix",
+      "hydrothermal",
+      "anneal",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124939"
+  },
+  {
+    "reaction": "Mg3Sb2 <- Mg + Sb",
+    "heat_temperature": "1123 K for 2h",
+    "operations": [
+      "mix",
+      "melt",
+      "grind",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124977"
+  },
+  {
+    "reaction": "W5Si3 <- W + Si",
+    "heat_temperature": "1700°C at 2 GPa for 30 min",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "high_pressure_synthesis"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125041"
+  },
+  {
+    "reaction": "WP <- W + P",
+    "heat_temperature": "900°C for 20 h",
+    "operations": [
+      "seal",
+      "heat"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125041"
+  },
+  {
+    "reaction": "AgBiI4 <- AgI + BiI3",
+    "heat_temperature": "600°C with a rate of 2°C min−1, then cooled down to room temperature with a rate of 1°C min−1",
+    "operations": [
+      "mix",
+      "grind",
+      "seal",
+      "anneal",
+      "cool",
+      "grind_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125026"
+  },
+  {
+    "reaction": "Ag2BiI5 <- AgI + BiI3",
+    "heat_temperature": "600°C with a rate of 2°C min−1, then cooled down to room temperature with a rate of 1°C min−1",
+    "operations": [
+      "mix",
+      "grind",
+      "seal",
+      "anneal",
+      "cool",
+      "grind_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125026"
+  },
+  {
+    "reaction": "Ag3BiI6 <- AgI + BiI3",
+    "heat_temperature": "600°C with a rate of 2°C min−1, then cooled down to room temperature with a rate of 1°C min−1",
+    "operations": [
+      "mix",
+      "grind",
+      "seal",
+      "anneal",
+      "cool",
+      "grind_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125026"
+  },
+  {
+    "reaction": "AgBi2I7 <- AgI + BiI3",
+    "heat_temperature": "600°C with a rate of 2°C min−1, then cooled down to room temperature with a rate of 1°C min−1",
+    "operations": [
+      "mix",
+      "grind",
+      "seal",
+      "anneal",
+      "cool",
+      "grind_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125026"
+  },
+  {
+    "reaction": "Cu7S4 <- Cu + S",
+    "heat_temperature": "70°C for 30 min",
+    "operations": [
+      "mix",
+      "sulfidation",
+      "cyclic_voltammetry",
+      "chronoamperometric_analysis",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124913"
+  },
+  {
+    "reaction": "MnS <- Mn + S",
+    "heat_temperature": "70°C for 30 min",
+    "operations": [
+      "mix",
+      "sulfidation",
+      "cyclic_voltammetry",
+      "chronoamperometric_analysis",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124913"
+  },
+  {
+    "reaction": "LiCu2Ga <- Li + Cu + Ga",
+    "heat_temperature": "800-900°C for 15 min",
+    "operations": [
+      "mix",
+      "induction_heating",
+      "cool",
+      "extract"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124909"
+  },
+  {
+    "reaction": "LiCu2Al <- Li + Cu + Al",
+    "heat_temperature": "800-900°C for 15 min",
+    "operations": [
+      "mix",
+      "induction_heating",
+      "cool",
+      "extract"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124909"
+  },
+  {
+    "reaction": "CsSnI6 <- CsI + SnI2",
+    "heat_temperature": "400°C for 10h",
+    "operations": [
+      "mix",
+      "anneal",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124980"
+  },
+  {
+    "reaction": "CsSnCl6 <- SnCl2 + CsCl",
+    "heat_temperature": "350°C for 10h",
+    "operations": [
+      "precipitation",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124980"
+  },
+  {
+    "reaction": "Cs2SnI6 <- CsI + SnI4",
+    "heat_temperature": "400°C for 10h",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124980"
+  },
+  {
+    "reaction": "Cs2SnCl6 <- CsCl + SnCl4",
+    "heat_temperature": "350°C for 10h",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124980"
+  },
+  {
+    "reaction": "Cs3Bi2Br9 <- CsBr + BiBr3",
+    "heat_temperature": "330°C for 10h",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124980"
+  },
+  {
+    "reaction": "Cs3Sb2Br9 <- CsBr + SbBr3",
+    "heat_temperature": "410°C for 10h",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124980"
+  },
+  {
+    "reaction": "Cs2AgInCl6 <- CsCl + AgCl + InCl3",
+    "heat_temperature": "365°C for 10h",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124980"
+  },
+  {
+    "reaction": "Cs2AgSbCl6 <- CsCl + AgCl + SbCl3",
+    "heat_temperature": "409°C for 10h",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124980"
+  },
+  {
+    "reaction": "Cs2AgBiCl6 <- CsCl + AgCl + BiCl3",
+    "heat_temperature": "365°C for 10h",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124980"
+  },
+  {
+    "reaction": "Cs3Sb2I9 <- CsI + SbI3",
+    "heat_temperature": "523K for 1 h",
+    "operations": [
+      "anneal",
+      "phase_transition"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124943"
+  },
+  {
+    "reaction": "Cs3Sb2Cl9 <- CsCl + SbCl3",
+    "heat_temperature": "300~350 ◦C",
+    "operations": [
+      "synthesis",
+      "thin_film_preparation"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124943"
+  },
+  {
+    "reaction": "Li2S <- S8 + Li",
+    "heat_temperature": "Not specified in the article",
+    "operations": [
+      "adsorb",
+      "strain_apply",
+      "diffusion_analysis",
+      "decomposition_analysis"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124897"
+  },
+  {
+    "reaction": "Li2S2 <- S8 + Li",
+    "heat_temperature": "Not specified in the article",
+    "operations": [
+      "adsorb",
+      "diffusion_analysis",
+      "decomposition_analysis"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124897"
+  },
+  {
+    "reaction": "Li2S4 <- S8 + Li",
+    "heat_temperature": "Not specified in the article",
+    "operations": [
+      "adsorb",
+      "diffusion_analysis",
+      "decomposition_analysis"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124897"
+  },
+  {
+    "reaction": "Li2S6 <- S8 + Li",
+    "heat_temperature": "Not specified in the article",
+    "operations": [
+      "adsorb",
+      "diffusion_analysis",
+      "decomposition_analysis"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124897"
+  },
+  {
+    "reaction": "Li2S8 <- S8 + Li",
+    "heat_temperature": "Not specified in the article",
+    "operations": [
+      "adsorb",
+      "diffusion_analysis",
+      "decomposition_analysis"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124897"
+  },
+  {
+    "reaction": "Li0.25Ag0.75AlSe2 <- Li + Ag + Al + Se",
+    "heat_temperature": "850°C for 45h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124931"
+  },
+  {
+    "reaction": "Li0.50Ag0.50AlSe2 <- Li + Ag + Al + Se",
+    "heat_temperature": "850°C for 45h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124931"
+  },
+  {
+    "reaction": "Li0.75Ag0.25AlSe2 <- Li + Ag + Al + Se",
+    "heat_temperature": "850°C for 45h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124931"
+  },
+  {
+    "reaction": "Sm2PdGe3 <- Pd36Ge64 + Sm + Ge",
+    "heat_temperature": "725°C for the eutectic alloy preparation, followed by further melting",
+    "operations": [
+      "mix",
+      "arc_melting",
+      "two_step_synthesis",
+      "cooling"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125010"
+  },
+  {
+    "reaction": "Zr7Pd7Ga3 <- Zr + Pd + Ga",
+    "heat_temperature": "870 K for 720 h",
+    "operations": [
+      "mix",
+      "arc_melting",
+      "anneal",
+      "quench",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125034"
+  },
+  {
+    "reaction": "Li2MnO3 <- Li + Mn + O2",
+    "heat_temperature": "3000 K for ab initio molecular dynamics simulation",
+    "operations": [
+      "doping",
+      "optimization",
+      "calculation",
+      "analysis"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.125018"
+  },
+  {
+    "reaction": "FeAl2O4 <- Fe + Al + O2",
+    "heat_temperature": "1800 K",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2024.124928"
+  },
+  {
+    "reaction": "CeMn7O12 <- Mn2O3 + Mn3O4 + CeO2",
+    "heat_temperature": "1670 K for 2 h at 6 GPa",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121161"
+  },
+  {
+    "reaction": "NiFe2O4 <- NiO + Fe2O3",
+    "heat_temperature": "1100°C for 4h",
+    "operations": [
+      "mix",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121089"
+  },
+  {
+    "reaction": "CuFe2O4 <- CuO + Fe2O3",
+    "heat_temperature": "1000°C for 4h",
+    "operations": [
+      "mix",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121089"
+  },
+  {
+    "reaction": "CoSb3 <- Co + Sb",
+    "heat_temperature": "not specified",
+    "operations": [
+      "mix",
+      "mechanical_alloying",
+      "spark_plasma_sintering"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121205"
+  },
+  {
+    "reaction": "NiO <- Ni + O2",
+    "heat_temperature": "100°C for 48h",
+    "operations": [
+      "mix",
+      "electrodeposit",
+      "anneal",
+      "oxidize"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121186"
+  },
+  {
+    "reaction": "ZnCr2Se4 <- ZnSe + CrCl3 + Se",
+    "heat_temperature": "1203-1223 K (dissolution zone), 1143-1153 K (crystallization zone)",
+    "operations": [
+      "mix",
+      "chemical_vapor_transport",
+      "anneal",
+      "cool",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121024"
+  },
+  {
+    "reaction": "MoSe2 <- MoO3 + Se",
+    "heat_temperature": "Not explicitly specified, but involves selenization process",
+    "operations": [
+      "synthesize",
+      "solvothermal",
+      "hybridize",
+      "inject_ammonia",
+      "polymerize",
+      "dissolve_template",
+      "selenize"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121159"
+  },
+  {
+    "reaction": "RbHCO3 <- Rb2CO3 + H2O + CO2",
+    "heat_temperature": "Not specified",
+    "operations": [
+      "mix",
+      "precipitate",
+      "filter",
+      "dry",
+      "store_under_vacuum"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121139"
+  },
+  {
+    "reaction": "RbDCO3 <- Rb2CO3 + D2O + CO2",
+    "heat_temperature": "300°C for decomposition of impurities",
+    "operations": [
+      "bake",
+      "dissolve",
+      "filter",
+      "precipitate",
+      "check_purity",
+      "evaporate",
+      "store_under_vacuum"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121139"
+  },
+  {
+    "reaction": "Li1.05Mn2O4 <- Li2CO3 + Mn2O3",
+    "heat_temperature": "843 K for 5h, then 1143 K for 10h, followed by 1143 K for 12h",
+    "operations": [
+      "mix",
+      "press",
+      "calcine",
+      "grind",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121177"
+  },
+  {
+    "reaction": "Li1.05Mn1.7Ni0.3O4 <- Li2CO3 + Mn2O3 + NiO",
+    "heat_temperature": "843 K for 5h, then 1143 K for 10h, followed by 1143 K for 12h",
+    "operations": [
+      "mix",
+      "press",
+      "calcine",
+      "grind",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121177"
+  },
+  {
+    "reaction": "Li1.05Mn1.8Ti0.2O4 <- Li2CO3 + Mn2O3 + TiO2",
+    "heat_temperature": "843 K for 5h, then 1143 K for 10h, followed by 1143 K for 12h",
+    "operations": [
+      "mix",
+      "press",
+      "calcine",
+      "grind",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121177"
+  },
+  {
+    "reaction": "BiFeWO6 <- Bi2O3 + Fe2O3 + WO3",
+    "heat_temperature": "681°C",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121064"
+  },
+  {
+    "reaction": "AlPO4 <- Al2O3 + H3PO4",
+    "heat_temperature": "750°C for 3h",
+    "operations": [
+      "calcine",
+      "mix",
+      "press",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121025"
+  },
+  {
+    "reaction": "Sr3GeO4Cl2 <- SrCO3 + GeO2 + SrCl2",
+    "heat_temperature": "1000°C for 14h, then cooled to 800°C at 6°C/h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "cool_slowly",
+      "switch_off"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121075"
+  },
+  {
+    "reaction": "Ba3GeO4Br2 <- BaCO3 + GeO2 + BaBr2",
+    "heat_temperature": "950°C for 12h, then cooled to 800°C at 6°C/h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "cool_slowly",
+      "switch_off"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121075"
+  },
+  {
+    "reaction": "Sr6Ge2O7Cl6 <- SrCO3 + GeO2 + SrCl2",
+    "heat_temperature": "200°C for 6h, then 1000°C for 30h, cooled to 800°C at 6°C/h",
+    "operations": [
+      "mix",
+      "flux_growth",
+      "anneal",
+      "cool_slowly",
+      "switch_off"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121075"
+  },
+  {
+    "reaction": "Fe3O4 <- Fe + Fe2O3",
+    "heat_temperature": "300°C for 4h",
+    "operations": [
+      "mix",
+      "calcine",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121130"
+  },
+  {
+    "reaction": "ZnAl2O4 <- ZnO + Al2O3",
+    "heat_temperature": "850°C for 2h",
+    "operations": [
+      "mix",
+      "anneal",
+      "crystallize"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121165"
+  },
+  {
+    "reaction": "KGaSi2O6 <- K2CO3 + Ga2O3 + SiO2",
+    "heat_temperature": "1673 K for 3 h, then 1273 K for 4 days",
+    "operations": [
+      "mix",
+      "heat",
+      "reground",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121142"
+  },
+  {
+    "reaction": "Sr2MgSi2O7 <- SrCO3 + MgO + SiO2 + H3BO3",
+    "heat_temperature": "1150°C for 6h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "dope"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121174"
+  },
+  {
+    "reaction": "Ca2MgSi2O7 <- CaO + MgO + SiO2 + H3BO3",
+    "heat_temperature": "1150°C for 6h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "dope"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121174"
+  },
+  {
+    "reaction": "Co4Sb12 <- Co + Sb",
+    "heat_temperature": "1100°C for 10h, then 740°C for 7 days",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121201"
+  },
+  {
+    "reaction": "Ba2Sr3B4O11 <- H3BO3 + BaCO3 + SrCO3",
+    "heat_temperature": "900°C for 125h, then 1250°C for melting",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "melt",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121023"
+  },
+  {
+    "reaction": "Ba5B4O11 <- H3BO3 + BaCO3",
+    "heat_temperature": "800°C for 10h, then 1100°C for 10h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "add_excess_H3BO3",
+      "anneal_again"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121023"
+  },
+  {
+    "reaction": "Co3O4 <- Co + O2",
+    "heat_temperature": "400°C for 1 h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121435"
+  },
+  {
+    "reaction": "Tl4Ag18Te11 <- Tl + Ag + Te",
+    "heat_temperature": "Not specified in the text",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121469"
+  },
+  {
+    "reaction": "Bi0.5Sb1.5Te3 <- Bi + Sb + Te",
+    "heat_temperature": "1073 K for 10h, then 1123 K for 15h",
+    "operations": [
+      "mix",
+      "seal",
+      "anneal",
+      "quench",
+      "zone_melting"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121433"
+  },
+  {
+    "reaction": "Na0.5K0.5AlSi3O8 <- Na2CO3 + K2CO3 + Al2O3 + SiO2",
+    "heat_temperature": "700 to 1100°C stepwise in 100°C increments over five days, followed by annealing at 900°C overnight",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121501"
+  },
+  {
+    "reaction": "Na0.5K0.5Al0.9B0.1Si3O8 <- Na2CO3 + K2CO3 + Al2O3 + B2O3 + SiO2",
+    "heat_temperature": "700 to 1100°C stepwise in 100°C increments over five days, followed by annealing at 900°C overnight",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121501"
+  },
+  {
+    "reaction": "Na0.5K0.5Al0.9Ga0.1Si3O8 <- Na2CO3 + K2CO3 + Al2O3 + Ga2O3 + SiO2",
+    "heat_temperature": "700 to 1100°C stepwise in 100°C increments over five days, followed by annealing at 900°C overnight",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121501"
+  },
+  {
+    "reaction": "Bi2SiO5 <- Bi2O3 + SiO2",
+    "heat_temperature": "500-600°C",
+    "operations": [
+      "mix",
+      "press",
+      "sinter",
+      "analyze"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121518"
+  },
+  {
+    "reaction": "Sr2NiMoO6 <- SrCO3 + NiO + MoO3",
+    "heat_temperature": "1373 K for 24 h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "grind"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121474"
+  },
+  {
+    "reaction": "CaLa2FeCoSbO9 <- CaCO3 + La2O3 + Fe2O3 + Co3O4 + Sb2O5",
+    "heat_temperature": "800°C for 24h, then 1300°C for 48h, followed by annealing at 1300°C for 48h and cooling to 800°C",
+    "operations": [
+      "mix",
+      "press",
+      "fire",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121226"
+  },
+  {
+    "reaction": "CaLa2FeNiSbO9 <- CaCO3 + La2O3 + Fe2O3 + NiO + Sb2O5",
+    "heat_temperature": "800°C for 24h, then 1300°C for 48h, followed by annealing at 1300°C for 48h and cooling to 800°C",
+    "operations": [
+      "mix",
+      "press",
+      "fire",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121226"
+  },
+  {
+    "reaction": "SrLa2FeNiSbO9 <- SrCO3 + La2O3 + Fe2O3 + NiO + Sb2O5",
+    "heat_temperature": "800°C for 24h, then 1300°C for 48h, followed by annealing at 1300°C for 48h and cooling to 800°C",
+    "operations": [
+      "mix",
+      "press",
+      "fire",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121226"
+  },
+  {
+    "reaction": "BaLa2FeNiSbO9 <- BaCO3 + La2O3 + Fe2O3 + NiO + Sb2O5",
+    "heat_temperature": "800°C for 24h, then 1300°C for 48h, followed by annealing at 1300°C for 48h and cooling to 800°C",
+    "operations": [
+      "mix",
+      "press",
+      "fire",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121226"
+  },
+  {
+    "reaction": "Bi1.9Gd0.1Te3 <- Bi + Gd + Te",
+    "heat_temperature": "not explicitly specified for synthesis step, but sintering involved 5 min at unspecified temperature",
+    "operations": [
+      "synthesize",
+      "compact",
+      "sinter",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121559"
+  },
+  {
+    "reaction": "Eu8Sn4Se20 <- Eu + Sn + Se",
+    "heat_temperature": "1223 K for 5 days, then cooled to 573 K at 5 K/h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121432"
+  },
+  {
+    "reaction": "CsTe1.625W0.375O6 <- CsNO3 + TeO2 + WO3",
+    "heat_temperature": "700–750°C for 1 day",
+    "operations": [
+      "mix",
+      "grind",
+      "sinter",
+      "fast_cool",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121267"
+  },
+  {
+    "reaction": "RbTe1.5W0.5O6 <- RbNO3 + TeO2 + WO3",
+    "heat_temperature": "700–750°C for 1 day",
+    "operations": [
+      "mix",
+      "grind",
+      "sinter",
+      "fast_cool",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121267"
+  },
+  {
+    "reaction": "Li2Si2O5 <- Li2O + SiO2",
+    "heat_temperature": "1033°C",
+    "operations": [
+      "mix",
+      "melt",
+      "quench",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121379"
+  },
+  {
+    "reaction": "Ba2TiSi2O8 <- BaO + TiO2 + SiO2",
+    "heat_temperature": "high temperature",
+    "operations": [
+      "mix",
+      "melt",
+      "quench",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121379"
+  },
+  {
+    "reaction": "Cu2V2O7 <- CuSO4 + NH4VO3",
+    "heat_temperature": "200°C for 8h hydrothermal, then 100°C for drying",
+    "operations": [
+      "mix",
+      "ultrasonicate",
+      "heat",
+      "hydrothermal",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121563"
+  },
+  {
+    "reaction": "AgSbSe2 <- Ag + Sb + Se",
+    "heat_temperature": "723 K for 14h, then 1123 K for 4h and homogenized for 20h",
+    "operations": [
+      "mix",
+      "heat_treat",
+      "grind",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121454"
+  },
+  {
+    "reaction": "Ba14Na4Sb11S31Cl3 <- Ba + NaCl + Sb + S",
+    "heat_temperature": "820°C for 5 days, then cooled to 320°C at 5°C/h",
+    "operations": [
+      "mix",
+      "seal",
+      "anneal",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121538"
+  },
+  {
+    "reaction": "MoTeO5 <- MoO3 + TeO2",
+    "heat_temperature": "230°C for 7 days",
+    "operations": [
+      "mix",
+      "hydrothermal",
+      "cool",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121317"
+  },
+  {
+    "reaction": "MoTe2O7 <- MoO3 + TeO2",
+    "heat_temperature": "230°C for 7 days",
+    "operations": [
+      "mix",
+      "hydrothermal",
+      "cool",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121317"
+  },
+  {
+    "reaction": "CoFe2O4 <- Co + Fe + O2",
+    "heat_temperature": "Not explicitly mentioned, but synthesis involved hydrothermal surface treatment",
+    "operations": [
+      "coprecipitation",
+      "surface_treatment",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121269"
+  },
+  {
+    "reaction": "SrTc0.5Ru0.5O3 <- SrCO3 + RuO2 + TcO2",
+    "heat_temperature": "900°C for 30h",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121378"
+  },
+  {
+    "reaction": "SrTc0.25Ru0.75O3 <- SrCO3 + RuO2 + TcO2",
+    "heat_temperature": "900°C for 30h",
+    "operations": [
+      "mix",
+      "grind",
+      "press",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121378"
+  },
+  {
+    "reaction": "MgO <- MgCO3 + MgH2",
+    "heat_temperature": "room temperature",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "analyze"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121485"
+  },
+  {
+    "reaction": "Ni0.14Co0.86P <- Ni + Co + P",
+    "heat_temperature": "330°C for 3h",
+    "operations": [
+      "mix",
+      "phosphorize",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121602"
+  },
+  {
+    "reaction": "NbCoSn <- Nb + Co + Sn",
+    "heat_temperature": "800°C for 10h, then 1100°C for 10h",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121203"
+  },
+  {
+    "reaction": "NbFeSb <- Nb + Fe + Sb",
+    "heat_temperature": "800°C for 10h, then 1100°C for 10h",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121203"
+  },
+  {
+    "reaction": "ZrNiSn <- Zr + Ni + Sn",
+    "heat_temperature": "800°C for 10h, then 1100°C for 10h",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "press",
+      "sinter"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121203"
+  },
+  {
+    "reaction": "Cu2Mo10O30 <- Cu + MoO3",
+    "heat_temperature": "550°C under argon",
+    "operations": [
+      "mix",
+      "anneal",
+      "grind",
+      "re_anneal",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121259"
+  },
+  {
+    "reaction": "CuMo9O26 <- Cu + MoO3",
+    "heat_temperature": "500°C",
+    "operations": [
+      "mix",
+      "anneal",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121259"
+  },
+  {
+    "reaction": "RbNbW2O9 <- Rb2CO3 + Nb2O5 + WO3",
+    "heat_temperature": "1223 K for 1 h",
+    "operations": [
+      "mix",
+      "press",
+      "sinter",
+      "polish"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121275"
+  },
+  {
+    "reaction": "Na2Ti3O7 <- TiO2 + NaOH",
+    "heat_temperature": "130°C for 3h",
+    "operations": [
+      "mix",
+      "hydrothermal",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121562"
+  },
+  {
+    "reaction": "Gd4.5Si3O11.55N0.8 <- Gd2O3 + SiO2 + Si3N4",
+    "heat_temperature": "1200°C for 10h",
+    "operations": [
+      "mix",
+      "press",
+      "seal",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121484"
+  },
+  {
+    "reaction": "Pr4.8Si3O11.7N <- Pr6O11 + SiO2 + Si3N4",
+    "heat_temperature": "1200°C for 10h",
+    "operations": [
+      "mix",
+      "press",
+      "seal_in_evacuated_silica_tube",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121406"
+  },
+  {
+    "reaction": "Fe3O4 <- FeCl2 + FeCl3 + NH4OH",
+    "heat_temperature": "353 K",
+    "operations": [
+      "mix",
+      "precipitate",
+      "wash",
+      "magnetic_decantation",
+      "heat",
+      "add_surfactant",
+      "stir",
+      "dialyze"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121574"
+  },
+  {
+    "reaction": "RbNdGe2O6 <- Rb2CO3 + Nd2O3 + GeO2",
+    "heat_temperature": "980°C for 5 days",
+    "operations": [
+      "mix",
+      "preheat",
+      "grind",
+      "anneal",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121246"
+  },
+  {
+    "reaction": "Ag2ZnSnS4 <- Ag + Zn + Sn + S",
+    "heat_temperature": "650°C for 7 days",
+    "operations": [
+      "mix",
+      "seal",
+      "heat",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121467"
+  },
+  {
+    "reaction": "Ba3Cd2P4 <- Ba + Cd + P",
+    "heat_temperature": "1173 K for 24h, then cooled to 800 K at 2°C/h",
+    "operations": [
+      "mix",
+      "flux_growth",
+      "anneal",
+      "centrifuge",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121476"
+  },
+  {
+    "reaction": "Tl2CdGeSe4 <- Tl2GeSe3 + CdSe",
+    "heat_temperature": "950 K for 5 h, then 1200 K for 5 h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121422"
+  },
+  {
+    "reaction": "Tl2CdSnSe4 <- Tl2SnSe3 + CdSe",
+    "heat_temperature": "950 K for 5 h, then 1200 K for 5 h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121422"
+  },
+  {
+    "reaction": "Tl2CdGe3Se8 <- Tl2CdGeSe4 + GeSe2",
+    "heat_temperature": "950 K for 5 h, then 1200 K for 5 h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121422"
+  },
+  {
+    "reaction": "Tl2CdSiTe4 <- Tl2SiTe4 + CdTe",
+    "heat_temperature": "950 K for 5 h, then 1450 K for 5 h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121422"
+  },
+  {
+    "reaction": "Tl2HgSiTe4 <- Tl2SiTe4 + HgTe",
+    "heat_temperature": "950 K for 5 h, then 1450 K for 5 h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "quench"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121422"
+  },
+  {
+    "reaction": "RbLaNaNb3O10 <- Rb2CO3 + La2O3 + Na2CO3 + Nb2O5",
+    "heat_temperature": "850°C for 24h, then 1150°C for 24h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcinate",
+      "reground",
+      "heat",
+      "wash",
+      "rinse",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121235"
+  },
+  {
+    "reaction": "KLaNaNb3O10 <- K2CO3 + La2O3 + Na2CO3 + Nb2O5",
+    "heat_temperature": "850°C for 24h, then 1150°C for 24h",
+    "operations": [
+      "mix",
+      "grind",
+      "calcinate",
+      "reground",
+      "heat",
+      "wash",
+      "rinse",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121235"
+  },
+  {
+    "reaction": "Nb2SnC <- Nb + Sn + C",
+    "heat_temperature": "1000°C for 8h",
+    "operations": [
+      "mix",
+      "sinter",
+      "wash",
+      "dry"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121425"
+  },
+  {
+    "reaction": "Bi12TiO20 <- Bi2O3 + TiO2",
+    "heat_temperature": "750–800°C for 12–24 h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121463"
+  },
+  {
+    "reaction": "Bi12SiO20 <- Bi2O3 + SiO2",
+    "heat_temperature": "750–800°C for 12–24 h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121463"
+  },
+  {
+    "reaction": "Bi12GeO20 <- Bi2O3 + GeO2",
+    "heat_temperature": "750–800°C for 12–24 h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121463"
+  },
+  {
+    "reaction": "Pb3ScP3O12 <- PbO + Sc2O3 + NH4H2PO4",
+    "heat_temperature": "450°C for 10h, then 850°C with several intermittent grindings for 3 days",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121276"
+  },
+  {
+    "reaction": "Pb3GdP3O12 <- PbO + Gd2O3 + NH4H2PO4",
+    "heat_temperature": "450°C for 10h, then 900°C with several intermittent grindings for 3 days",
+    "operations": [
+      "mix",
+      "grind",
+      "heat",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121276"
+  },
+  {
+    "reaction": "Gd2MoB2O9 <- Gd2O3 + MoO3 + H3BO3",
+    "heat_temperature": "300°C for 10h, then 850°C for 15h, repeated once",
+    "operations": [
+      "mix",
+      "grind",
+      "anneal",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121392"
+  },
+  {
+    "reaction": "Li2SrSiO4 <- SrCO3 + Li2CO3 + SiO2",
+    "heat_temperature": "550°C for 1h, then 900°C for 6h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121367"
+  },
+  {
+    "reaction": "FeSe <- Fe + Se",
+    "heat_temperature": "450–550°C",
+    "operations": [
+      "mix",
+      "nebulize",
+      "transport_with_carrier_gas",
+      "decompose_on_substrate"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121429"
+  },
+  {
+    "reaction": "PbS <- Pb + S",
+    "heat_temperature": "350–450°C",
+    "operations": [
+      "precursor_mixing",
+      "add_surfactant",
+      "aerosol_generation",
+      "film_deposition"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121429"
+  },
+  {
+    "reaction": "TiO2 <- Ti + O2",
+    "heat_temperature": "900°C for 12h",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121414"
+  },
+  {
+    "reaction": "LaS <- La + S",
+    "heat_temperature": "300 K",
+    "operations": [
+      "mix",
+      "press",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121714"
+  },
+  {
+    "reaction": "PrS <- Pr + S",
+    "heat_temperature": "300 K",
+    "operations": [
+      "mix",
+      "press",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121714"
+  },
+  {
+    "reaction": "NiAl2O4 <- Ni + Al + O2",
+    "heat_temperature": "1000°C for 4h",
+    "operations": [
+      "mix",
+      "ignite",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121695"
+  },
+  {
+    "reaction": "CuAl2O4 <- Cu + Al + O2",
+    "heat_temperature": "1000°C for 4h",
+    "operations": [
+      "mix",
+      "ignite",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121695"
+  },
+  {
+    "reaction": "ZnAl2O4 <- Zn + Al + O2",
+    "heat_temperature": "1000°C for 4h",
+    "operations": [
+      "mix",
+      "ignite",
+      "calcine"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121695"
+  },
+  {
+    "reaction": "Cr3C2 <- Cr2O3 + C",
+    "heat_temperature": "1300°C for 2h",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "sinter",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121598"
+  },
+  {
+    "reaction": "Cr7C3 <- Cr2O3 + C",
+    "heat_temperature": "1100°C for 2h",
+    "operations": [
+      "mix",
+      "ball_mill",
+      "sinter",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121598"
+  },
+  {
+    "reaction": "Bi4Si3O12 <- Bi2O3 + SiO2",
+    "heat_temperature": "910°C",
+    "operations": [
+      "mix",
+      "anneal"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121608"
+  },
+  {
+    "reaction": "Cu6Zn2Sb2 <- Cu + Zn + Sb",
+    "heat_temperature": "600°C for 24h, then 950°C for 12h, followed by annealing at 450°C for 96h",
+    "operations": [
+      "mix",
+      "seal_under_argon",
+      "anneal",
+      "cool"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2020.121660"
+  }
+]

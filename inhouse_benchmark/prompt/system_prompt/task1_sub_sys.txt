@@ -1,0 +1,22 @@
+Background: I am collecting data on inorganic chemical reactions. The constraints below are very important — read them carefully!
+Requirement: I will send you an article in PDF format. Help me extract the inorganic reaction chemical equations from this article, and tell me the reaction conditions, operations, and the DOI URL of the article. The specific requirements are: the first field is reaction, returned in the form "product <- reactant + reactant + reactant"; the second field is heat_temperature; the third field is operation, in which the individual operations are summarized into multiple words in order; the fourth field is the DOI URL. The final result should be returned in JSON format. Below is an example format that meets the requirements.
+Example format (JSON):
+[
+  {
+    "reaction": "Ba5B4O11 <- H3BO3 + BaCO3",
+    "heat_temperature": "800°C for 10h, then 1100°C for 10h",
+    "operations": [
+      "mix",
+      "press",
+      "anneal",
+      "select_crystals"
+    ],
+    "doi": "https://doi.org/10.1016/j.jssc.2019.121023"
+  }
+]
+If a paper contains multiple new inorganic reactions, summarize them into multiple JSON data entries as above.
+Read the constraints below carefully — the results must comply with the constraints!!
+Constraints: The reactions must be inorganic reaction equations. The first field, reaction, must be returned in the form "product <- reactant + reactant + reactant". The products and reactants must be elements or compounds that can be represented by chemical formulas; organic compounds or non-traditional inorganic substances such as new nanomaterials are not allowed. In the reaction field, only the single most important product should be written (only one substance; forms like Hf2CO/VS2 must not appear), and there must be at least two reactants. Every reactant must have at least one element appearing in the product, and all reactants must participate in the reaction. The following is an incorrect example: "reaction": "TiF3 <- Ti + CaF2 + SiO2" — in this incorrect example, neither of the two elements in the reactant SiO2 appears in the product.
+The first field, reaction, is extremely important. Here are more correct reaction examples: "reaction": "Nb0.25Bi2Se3 <- Nb + Bi + Se"
+If the article does not mention a reaction equation, you may make some inferences from the information in the text to derive the reaction equation. If, after reasoning, no reaction equation meeting the requirements exists, return "NULL".
+Only output content similar to the example format or "NULL" — do not output anything else.
